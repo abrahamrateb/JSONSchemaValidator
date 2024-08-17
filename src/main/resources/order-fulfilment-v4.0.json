@@ -1,0 +1,264 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OrderFulfilment",
+  "description": "Order Fulfilment SDEM",
+  "additionalProperties": true,
+  "required": [
+    "orderReleaseIdentifier"
+  ],
+  "properties": {
+    "identifier": {
+      "description": "Unique Identifier from ordering system",
+      "example": "00000118438",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "externalIdentifier": {
+      "description": "Unique identifier of message as assigned by sending system",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "identifier": {
+          "description": "The value for the identifier",
+          "example": "0010K00001qpuMmQAI",
+          "type": "string",
+          "pattern": "^.*$"
+        },
+        "producer": {
+          "description": "List of all the potential producers",
+          "enum": [
+            "COUPA",
+            "ENFINITY",
+            "GBS",
+            "GEP",
+            "LPA",
+            "MDM",
+            "OCT",
+            "OFI",
+            "ORACLE_EBS",
+            "PAYGLOBAL",
+            "PPP",
+            "PRISM",
+            "SFSC",
+            "STOREORDER",
+            "TUI",
+            "THEMARKET",
+            "WMS"
+          ]
+        }
+      }
+    },
+    "orderReleaseIdentifier": {
+      "description": "Unique sales order release identifier from the producer system",
+      "example": "000343138",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "thirdPartyOrderIdentifier": {
+      "description": "Indicates the sales order identifier created in the third party’s order management system.",
+      "example": "000343138",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "shipmentStatus": {
+      "type": "integer",
+      "description": "Current status of the order in the Fulfilment system",
+      "example": 1
+    },
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "eventType": {
+            "description": "Type of fulfilment event that is occurring",
+            "enum": [
+              "Cancel",
+              "Confirm",
+              "FulfilmentUpdate",
+              "PickUp",
+              "Ship",
+              "Short",
+              "StatusUpdate"
+            ]
+          },
+          "itemIdentifiers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "identifier": {
+                  "description": "The value for the identifier",
+                  "example": "0010K00001qpuMmQAI",
+                  "type": "string",
+                  "pattern": "^.*$"
+                },
+                "producer": {
+                  "description": "List of all the potential producers",
+                  "enum": [
+                    "COUPA",
+                    "ENFINITY",
+                    "GBS",
+                    "GEP",
+                    "LPA",
+                    "MDM",
+                    "OCT",
+                    "OFI",
+                    "ORACLE_EBS",
+                    "PAYGLOBAL",
+                    "PPP",
+                    "PRISM",
+                    "SFSC",
+                    "STOREORDER",
+                    "TUI",
+                    "THEMARKET",
+                    "WMS"
+                  ]
+                }
+              }
+            }
+          },
+          "merchantIdentifier": {
+            "description": "Unique identifier of the merchant for the item ordered. Merchant identifier will be supplied along with the release details",
+            "example": "82949",
+            "type": "string",
+            "pattern": "^.*$"
+          },
+          "merchantName": {
+            "description": "Identifies the name of the merchant for the item ordered. Merchant name will be supplied along with the release details",
+            "example": "Jansport NZ",
+            "type": "string",
+            "pattern": "^.*$"
+          },
+          "orderIdentifier": {
+            "description": "Unique Identifier from ordering system",
+            "example": "00000118438",
+            "type": "string",
+            "pattern": "^.*$"
+          },
+          "orderLineNumber": {
+            "type": "integer",
+            "description": "Line Number from order",
+            "example": 2
+          },
+          "quantity": {
+            "type": "integer",
+            "description": "Quantity being fulfilled, picked, packed, shorted",
+            "example": 7
+          },
+          "releaseLineNumber": {
+            "type": "integer",
+            "description": "Release line number assigned by order management system to fulfil order for the order line",
+            "example": 1
+          },
+          "shortReason": {
+            "description": "Reason given by the execution system when quantity is shorted",
+            "enum": [
+              "Change of Mind",
+              "Merchant cancelled",
+              "Not enough stock",
+              "Order placed in error",
+              "Other",
+              "Shipping fees"
+            ]
+          },
+          "unitOfMeasure": {
+            "description": "Unit of measure for the item",
+            "enum": [
+              "BX",
+              "CS",
+              "CT",
+              "DZN",
+              "DAY",
+              "EA",
+              "HUR",
+              "KT",
+              "MON",
+              "PD",
+              "PF",
+              "PK",
+              "PR",
+              "RM",
+              "RO",
+              "WEE",
+              "CMT",
+              "FOT",
+              "GRM",
+              "GSM",
+              "INH",
+              "KGM",
+              "LTR",
+              "LBR",
+              "MTR",
+              "MTQ",
+              "MLT",
+              "MMT",
+              "ONZ",
+              "PCE",
+              "SET"
+            ]
+          },
+          "brand": {
+            "description": "An internal identifier set by The Warehouse Group to represent a specific business/company entity.",
+            "enum": [
+              "NLG",
+              "T7",
+              "TWL",
+              "WSL",
+              "1DAY",
+              "TM"
+            ]
+          },
+          "fulfillmentDetail": {
+            "type": "object",
+            "additionalProperties": true,
+            "properties": {
+              "carrierCode": {
+                "description": "Carrier used to ship the items",
+                "example": "Courier Post",
+                "type": "string",
+                "pattern": "^.*$"
+              },
+              "eventDateTime": {
+                "description": "Date time this event occured",
+                "type": "string",
+                "format": "date-time",
+                "example": "2018-11-13T20:20:39+00:00"
+              },
+              "packageIdentifier": {
+                "description": "Unique identifier for a package",
+                "example": "89575",
+                "type": "string",
+                "pattern": "^.*$"
+              },
+              "shipmentIdentifier": {
+                "description": "Unique identifier (e.g. ASN id) of the shipment",
+                "example": "D000197789",
+                "type": "string",
+                "pattern": "^.*$"
+              },
+              "shipVia": {
+                "description": "Ship via of the shipment",
+                "enum": [
+                  "CPOT",
+                  "CPLO",
+                  "MFOT",
+                  "TLCC",
+                  "TLOT",
+                  "TWGT"
+                ]
+              },
+              "trackingNumber": {
+                "description": "Tracking number of the shipment",
+                "example": "285967678665",
+                "type": "string",
+                "pattern": "^.*$"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

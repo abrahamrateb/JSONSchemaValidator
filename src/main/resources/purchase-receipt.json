@@ -1,0 +1,30 @@
+{
+  "identifier": "718900001235313",
+  "receivingLocationIdentifier": "845",
+  "transactionDateTime": "2023-04-04T15:30:53",
+  "advancedShippingNoticeIdentifier": "",
+  "containerIdentifier": "",
+  "lines": [{
+    "fromDisposition": "Not Set",
+    "quantity": 100,
+    "toDisposition": "Cross Dock",
+    "item": {
+      "barcode": {
+        "value": "00000094138634"
+      },
+      "identifier": "430803",
+      "landedUnitCost": {
+        "amount": 0.58,
+        "currency": "NZD"
+      },
+      "unitCost": {
+        "amount": 0.58,
+        "currency": "NZD"
+      }
+    }
+  }
+  ],
+  "masterBillNumber": "",
+  "purchaseOrderIdentifier": "26980411",
+  "receiptType": "Receipt"
+}

@@ -1,0 +1,99 @@
+{
+  "orderIdentifier": "90112112",
+  "orderDatetime": "2023-09-25T04:20:37.001",
+  "releaseIdentifier": "90112112WSLD1",
+  "senderCompanyCode": "WSL",
+  "supplierIdentifier": "TWL_B229",
+  "fulfilmentProcessCode": "TWGB",
+  "supplierName": "Boyd Visuals",
+  "shipment": {
+    "address": {
+      "firstName": "vault:v2:g1Ulg8HgKPcLtEnz/gaSVvHHmnvvWhan+HzSgGoZ8dYgbSI=",
+      "lastName": "vault:v2:R/IsoK5CalEyp4NnM3wrzDPeIPZ8Qd6O+VMK1UNGK6P0rw==",
+      "addressVerificationIdentifier": "vault:v2:OhsvtZ4jhTfq22ckVOnxDAJvs5DYebYyq3aOV0cJ2iO1/jDd+shbNGaMSQaX+b/6roruu7exlSCQoOwc",
+      "addressLines": [
+        "vault:v2:ltXsCfGGObLaueY7uxgmMFEQAC+7kv17EiMvmFG7iwpMURqX2LsqDxxKigCNZclk",
+        "vault:v2:DbmFg+rT33MXfRRBdcGEjDxkfmAu80fKDBECaWe1mWydf7qXgA=="
+      ],
+      "suburb": "vault:v2:IldWwaqdy2fsyKheLp7u0QHgPtkppnlqrnIIXLL314W98ybRSA==",
+      "cityName": "vault:v2:ZDe/MG2Rq4XaZ4pcGJg1XwY9rmY7VbreZSrcFhUBlm4uJfOo",
+      "countryCode": "NZ",
+      "postalCode": "vault:v2:qPaQUqs7ukTjJ3fe0TN+NuG7sVxoBiLcb4+tgdVa0Wo=",
+      "phoneNumber": {
+        "dialNumber": "vault:v2:nO8qIx5T5aTSKMcqAxig/OhfengdpJ062UJtie2PAJO6I43k4dhY"
+      }
+    },
+    "signatureRequired": false
+  },
+  "orderLines": [
+    {
+      "orderLineNumber": 3,
+      "itemName": "Addington Te Kura Taumatua - Hapua - Akeake Rata Karamu",
+      "unitOfMeasure": "EA",
+      "quantity": 1,
+      "lineEvent": "Create",
+      "releaseLineNumber": 1,
+      "basePrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "itemIdentifiers": [
+        {
+          "identifier": "473967",
+          "producer": "MDM"
+        }
+      ],
+      "supplierProductReferenceIdentifier": "9401063879366"
+    },
+    {
+      "orderLineNumber": 2,
+      "itemName": "Addington Te Kura Taumatua - Hapua - Akeake Rata Karamu",
+      "unitOfMeasure": "EA",
+      "quantity": 1,
+      "lineEvent": "Create",
+      "releaseLineNumber": 2,
+      "basePrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "itemIdentifiers": [
+        {
+          "identifier": "473967",
+          "producer": "MDM"
+        }
+      ],
+      "supplierProductReferenceIdentifier": "9401063879366"
+    },
+    {
+      "orderLineNumber": 1,
+      "itemName": "Addington Te Kura Taumatua - Hapua - Akeake Rata Karamu",
+      "unitOfMeasure": "EA",
+      "quantity": 1,
+      "lineEvent": "Create",
+      "releaseLineNumber": 3,
+      "basePrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 15,
+        "currency": "NZD"
+      },
+      "itemIdentifiers": [
+        {
+          "identifier": "473967",
+          "producer": "MDM"
+        }
+      ],
+      "supplierProductReferenceIdentifier": "9401063879366"
+    }
+  ]
+}

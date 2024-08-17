@@ -1,0 +1,57 @@
+{
+  "identifier": "68896440076",
+  "orderSource": "STOREFRONT",
+  "payments": {
+    "pointOfSale": {
+      "storeIdentifier": "566"
+    }
+  },
+  "lines": [
+    {
+      "itemName": "CADBURY PICNIC BAR 46G.",
+      "basePrice": {
+        "amount": 0.7,
+        "currency": "NZD"
+      },
+      "channelType": "1P",
+      "netPrice": {
+        "amount": -2.43,
+        "currency": "NZD"
+      },
+      "taxRate": 0.15,
+      "description": "CADBURY PICNIC BAR 46G.",
+      "grossPrice": {
+        "amount": -2.8,
+        "currency": "NZD"
+      },
+      "refund": true,
+      "itemIdentifiers": [
+        {
+          "identifier": "421107",
+          "producer": "MDM"
+        }
+      ],
+      "refundStoreLocationIdentifier": "566",
+      "quantity": 4,
+      "taxAmount": {
+        "amount": -0.37,
+        "currency": "NZD"
+      },
+      "number": 2,
+      "globalTradeItemNumber": "9300617408642",
+      "unitOfMeasure": "EA",
+      "gift": false
+    }
+  ],
+  "taxIncluded": true,
+  "customerLocale": "en_NZ",
+  "orderEvent": {
+    "eventDateTime": "2023-07-24T11:54:35.000+12:00",
+    "eventType": "Refund"
+  },
+  "currency": "NZD",
+  "orderDateTime": "2023-07-24T11:54:35.000+12:00",
+  "refundOrderSource": "STOREFRONT",
+  "brand": "TWL",
+  "invoiceNumber": "566X00126"
+}

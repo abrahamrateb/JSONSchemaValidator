@@ -1,0 +1,28 @@
+{
+  "identifier": "92101020",
+  "orderReleaseIdentifier": "92101020GEP1",
+  "shipmentStatus": 5,
+  "lines": [
+    {
+      "eventType": "Ship",
+      "itemIdentifiers": [
+        {
+          "identifier": "423468",
+          "producer": "MDM"
+        }
+      ],
+      "quantity": 4,
+      "orderLineNumber": 1,
+      "unitOfMeasure": "EA",
+      "brand": "TWL",
+      "fulfillmentDetail": {
+        "eventDateTime": "2023-04-03T22:06:00+12:00",
+        "packageIdentifier": "9419695803513824",
+        "shipVia": "CPLO",
+        "shipmentIdentifier": "9419695803513824",
+        "trackingNumber": "00494196958035138252",
+        "carrierCode": "courierpost"
+      }
+    }
+  ]
+}

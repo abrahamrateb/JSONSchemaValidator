@@ -1,0 +1,220 @@
+{
+  "identifier": "NaWIS040",
+  "alternateIdentifier": "NaWIS040",
+  "status": "CANCELLED",
+  "orderDatetime": "2023-05-07T21:37:19.568",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "orderToken": "2qoMww29GMKDsdJIegPA0b483b0e61f54133969dbac8aa43b5e1",
+  "notifications": {
+    "sms": false,
+    "email": false,
+    "push": false
+  },
+  "lineCount": 1,
+  "minimumFulfilmentStatus": "CANCELLED",
+  "maximumFulfilmentStatus": "CANCELLED",
+  "lastUpdated": "2023-05-07T21:39:20.394",
+  "returnLabelUrl": "https://twgld.omni.manh.com/docmanagement/api/documentmanagement/",
+  "changeIdentifier": "a139f16f-af62-497d-beb6-48306e91002a",
+  "customer": {
+    "guest": false,
+    "name": "vault:v2:uk1KW/FZ5Qy84CCEzTof6fDVRC+y/agQvbLTzjRG1TxGnEZnJ+8/8w==",
+    "emailAddress": "vault:v2:79z1GggWEnlYsnON0SeXSf5Atn+DWXntYykD6ITDKL+Z/6ZUOkSJYX1jo18F1ts=",
+    "location": {
+      "address": {
+        "firstName": "vault:v2:AoPLaykVWVnR5SNWrYTNxjJXWIYrKI3l8K4r9DvyyqD7xg==",
+        "lastName": "vault:v2:nnDTC8zXhVuyLwD7OM2aQiEWj4yJRICjMZhSOeUoztI=",
+        "addressLines": ["vault:v2:6ZhLP8YioQrBBOuBJBNN1qLtXqiPut68jPkRNxaxvYKuG574kK+1U3exGi2eWwmS"],
+        "cityName": "vault:v2:On8afohKCHPj0os3077DC08OPYK/M+X2GfFUp2N6BhHkrjZ1Ew==",
+        "postalCode": "vault:v2:NuK0Amu25E9GA/lMxiIn/S3/v0t14w61TKqXqik5aew=",
+        "countryCode": "NZ"
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v2:8ZB6+h8PZAH2bfOVh2ZMDjk2AW1+p7VPnRuh95T3nI6dU8Ap0KY="
+    }
+  },
+  "lines": [{
+    "channelType": "1P",
+    "description": "BASIC COMP LINKED ITEM PARK 1",
+    "lineNumber": 1,
+    "quantity": 0.0,
+    "itemIdentifiers": [{
+      "identifier": "1541082",
+      "producer": "MDM"
+    }
+    ],
+    "itemName": "Young Original Basic Composite Linked Item Park 1",
+    "orderLineBreakDown": [{
+      "itemQuantity": 0.0,
+      "status": "OPEN",
+      "changeIdentifier": "bb668fd2-dbeb-4312-8d49-c23460b83f56"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "ALLOCATED",
+      "changeIdentifier": "5d553e72-9f57-4eeb-82da-d41a08e696aa"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "RELEASED",
+      "changeIdentifier": "f6bf2a67-67d8-49e3-96e7-c630de69d797"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "BACK_ORDERED",
+      "changeIdentifier": "f6bf2a67-67d8-49e3-96e7-c630de69d797",
+      "reason": "cancelled"
+    }, {
+      "itemQuantity": 2.0,
+      "status": "CANCELLED",
+      "changeIdentifier": "f6bf2a67-67d8-49e3-96e7-c630de69d797",
+      "reason": "cancelled",
+      "backOrderedAndCancelled": true,
+      "changeLog": [{
+        "oldQuantity": 2.0,
+        "newQuantity": 0.0,
+        "modificationType": "QuantityIncrease"
+      }
+      ]
+    }
+    ],
+    "unitOfMeasure": "EA",
+    "gift": false,
+    "image": {
+      "url": "https://twg.azure-api.net/twlProductImage/productImage/9401073984265/format/jpeg/size/small"
+    },
+    "itemColour": "PPL L",
+    "itemSize": "OS",
+    "return": false,
+    "cncPickupStoreIdentifier": "1119",
+    "createdDatetime": "2023-05-07T21:37:19.578",
+    "updatedDatetime": "2023-05-07T21:39:19.089"
+  }
+  ],
+  "payments": [{
+    "creditCard": {
+      "cardType": "Visa",
+      "maskedCardNumber": "vault:v2:TSNFc9nKtmLx89YmUIAGpCFf9tfN7u8YRe8mdo1oI8J7EtmpFcnpG9aeTMkElPLKSnfRsg==",
+      "cardHolderName": "vault:v2:O7tncSisg7aAbKaRhWvx2M4SKeZnX5dvtYwKY4mIl0RViKUykd5I",
+      "expiryMonth": "vault:v2:YcxCj8DxEsIRnE9KMSqV3LD151Oiw+qiVZUhNGhl",
+      "expiryYear": "vault:v2:p/BlmEksUJHl9/N2I7UM9pcPVAxFS3FxLdeCMTduh48=",
+      "amount": {
+        "amount": 99.98,
+        "currency": "NZD"
+      },
+      "transactionIdentifier": "000000030138f097"
+    }
+  }
+  ],
+  "release": [{
+    "releaseIdentifier": "NaWIS0401",
+    "brand": "TWL",
+    "carrierCode": "GROUPFLEET",
+    "deliveryMethod": "PickUpAtStore",
+    "shipToLocationIdentifier": "1119",
+    "shipFromLocationIdentifier": "1119",
+    "createdBy": "vault:v2:kAQQ1wQfLWwyKfHKNdvzBRLouLpvjF7GVVFFI3gKA7SVN+b21NK/0uY=",
+    "createdTimestamp": "2023-05-07T21:37:38.274",
+    "updatedBy": "vault:v2:CJ4HCTH29XaNFHxB5ObILHKBBnXT2WaiRbdoekSYxoZ5fBbp7YBNLhE=",
+    "updatedTimestamp": "2023-05-07T21:37:40.086",
+    "changeIdentifier": "5d553e72-9f57-4eeb-82da-d41a08e696aa",
+    "lines": [{
+      "allocationIdentifier": "366584894006879389512",
+      "quantity": 2.0,
+      "fulfilledQuantity": 0.0,
+      "cancelledQuantity": 2.0,
+      "itemIdentifiers": [{
+        "identifier": "1541082",
+        "producer": "MDM"
+      }
+      ],
+      "releaseLineIdentifier": 1,
+      "orderLineNumber": 1,
+      "brand": "TWL",
+      "unitOfMeasure": "EA",
+      "createdBy": "admin@twl.com",
+      "createdDatetime": "2023-05-07T21:37:38.285",
+      "updatedBy": "admin@twl.com",
+      "updatedDatetime": "2023-05-07T21:39:18.671",
+      "changeIdentifier": "f6bf2a67-67d8-49e3-96e7-c630de69d797"
+    }
+    ]
+  }
+  ],
+  "salesposting": [{
+    "invoiceIdentifier": "0507213920",
+    "parentOrderIdentifier": "NaWIS040",
+    "invoiceType": "Cancel",
+    "invoicePublishCount": 1,
+    "amountProcessed": {
+      "amount": -99.98,
+      "currency": "NZD"
+    },
+    "invoiceSubtotal": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "totalDiscounts": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "totalTaxes": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "totalCharges": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "invoiceTotal": {
+      "amount": -99.98,
+      "currency": "NZD"
+    },
+    "invoiceStatus": "Closed",
+    "brand": "TWL",
+    "invoiceLineDetails": [{
+      "totalCharges": {
+        "amount": 99.98,
+        "currency": "NZD"
+      },
+      "itemIdentifiers": [{
+        "identifier": "1541082",
+        "producer": "MDM"
+      }
+      ],
+      "quantity": 2.0,
+      "unitOfMeasure": "EA",
+      "brand": "TWL",
+      "lineNumber": 1,
+      "createdBy": "admin@twl.com",
+      "createdTimestamp": "2023-05-07T21:39:18.882",
+      "updatedBy": "admin@twl.com",
+      "updatedTimestamp": "2023-05-07T21:39:18.882",
+      "invoiceLineIdentifier": "0507213919",
+      "chargeDetails": [{
+        "chargeTotal": {
+          "amount": 99.98,
+          "currency": "NZD"
+        }
+      }
+      ]
+    }
+    ],
+    "invoiceChargeDetails": [{
+      "chargeType": "Cancel",
+      "orderChargeDetailIdentifier": "0507213920",
+      "chargeTotal": {
+        "amount": -99.98,
+        "currency": "NZD"
+      },
+      "requestedAmount": -99.98,
+      "createdBy": "vault:v2:dhjlQFJLyuN45SsheNIYMNdmChZhsRSDDjQ1tw1jrWb48v68wa3wmGw=",
+      "createdTimestamp": "2023-05-07T21:39:20.394",
+      "updatedBy": "vault:v2:AdTwEQO/t0xbeLat7L0RBX8zX8dEz9ilFw6l/Yr+xBmCxf2GdZi9unk=",
+      "updatedTimestamp": "2023-05-07T21:39:20.394"
+    }
+    ]
+  }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "identifier": "70121497PTWLD",
+  "alternateIdentifier": "70121497P",
+  "status": "BACK_ORDERED",
+  "orderDatetime": "2023-07-12T00:38:14.001Z",
+  "source": "TWL_DWARE",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "orderToken": "7ZCPxS6EaKbwlWKH3Oeg2d60e4d398ce20ca6c846c5765fbf5f5",
+  "businessToBusinessOrder": true,
+  "notifications": {
+    "sms": false,
+    "email": false,
+    "push": false
+  },
+  "lineCount": 1,
+  "minimumFulfilmentStatus": "BACK_ORDERED",
+  "maximumFulfilmentStatus": "BACK_ORDERED",
+  "lastUpdated": "2023-07-14T00:41:01.520Z",
+  "returnLabelUrl": "https://twgld.omni.manh.com/docmanagement/api/documentmanagement/",
+  "changeIdentifier": "fb07da77-bdfc-493e-8ff3-549a3bacb1bc",
+  "customer": {
+    "guest": false,
+    "identifier": "00240030",
+    "accountIdentifier": "003O0000014rgAZIAY",
+    "name": "vault:v2:u9tYJSzvfatJ4tTZZQLeg96+kmeSUZrs3cn5Tjo5OIbWPw==",
+    "emailAddress": "vault:v2:6rXf+rcV1OYnnBmBysAS3pLVys/iUrU9w+X1soEG/wnGf8P8Ae2qhLu3cVKz5dtAqekqakDL6A==",
+    "location": {
+      "address": {
+        "firstName": "vault:v2:xcnSlF/reLH3HcsFLPcLSw+xv+K976NHos+OF2Jxmw==",
+        "lastName": "vault:v2:ZHu/JDr8e4HsTW6BTJHGpc+4XBQIzIcGeXoP9BVw",
+        "addressLines": ["vault:v2:zGu61/5XFDe4dEHsyHMpBafmK6X1+xNWZivdD5sNLEy7RrjHiu8bevWVu6RBOoeY", "vault:v2:UeJ236bZGttQuh/vHcf/UHjqQzRHJHucOeDMfS34Eezk1KoCWA=="],
+        "cityName": "vault:v2:B/1Y5GGt9/PpGJOjabVldE5xQIDXvBChZ27MWoD6dxVSesNE",
+        "postalCode": "vault:v2:3vtP1SqGzQr2l5Qu5/GgIFdR8DwJFqqHKVh1Xjwq5hg=",
+        "countryCode": "NZ"
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v2:pp1PlyaqAbC0emAf3In2MIXOuG3p7s4cvCWNQuqBm6ODOlORAQJiMaoJ"
+    }
+  },
+  "lines": [{
+    "netPrice": {
+      "amount": 694.78,
+      "currency": "NZD"
+    },
+    "taxAmount": {
+      "amount": 104.22,
+      "currency": "NZD"
+    },
+    "grossPrice": {
+      "amount": 799.0,
+      "currency": "NZD"
+    },
+    "basePrice": {
+      "amount": 799.0,
+      "currency": "NZD"
+    },
+    "channelType": "1P",
+    "lineNumber": 1,
+    "quantity": 1.0,
+    "itemIdentifiers": [{
+      "identifier": "123123",
+      "producer": "MDM"
+    }
+    ],
+    "itemName": "Living & Co Chest Freezer 295 Litre White",
+    "orderLineBreakDown": [{
+      "itemQuantity": 0.0,
+      "status": "OPEN",
+      "changeIdentifier": "fb07da77-bdfc-493e-8ff3-549a3bacb1bc"
+    }, {
+      "itemQuantity": 1.0,
+      "status": "BACK_ORDERED",
+      "changeIdentifier": "fb07da77-bdfc-493e-8ff3-549a3bacb1bc",
+      "changeLog": [{
+        "oldQuantity": 0.0,
+        "newQuantity": 1.0
+      }
+      ]
+    }
+    ],
+    "unitOfMeasure": "EA",
+    "taxRate": 104.22,
+    "gift": false,
+    "fulfilmentPromise": "standard",
+    "priceBookIdentifier": "List Price",
+    "itemSize": "TBD",
+    "return": false,
+    "returnReceiptExpected": true,
+    "shipmentType": "Delivery",
+    "createdDatetime": "2023-07-14T00:41:00.897Z",
+    "updatedDatetime": "2023-07-14T00:41:01.522Z",
+    "preorder": false,
+    "consolidation": false,
+    "selfPick": false,
+    "shipment": {
+      "identifier": "00509081",
+      "method": "standardDeliveryUrban",
+      "address": {
+        "firstName": "vault:v2:8X9iKSxhG449FhuhqI6RK5URYY+w5PLWOZMbLQN7eKo=",
+        "lastName": "vault:v2:AP7J2RxwEyyrGy1y+LVzaXuXWyRAjtRJfnnUq0eZ",
+        "addressLines": ["vault:v2:fS7fKMeKopXguBw2zlQaA7usyxnOl0zcXzC6h8il4uVm310BGRDPtv9aTEyHFDBY", "vault:v2:acSHRJH8UCEVBsEaySE808dnNW9t1Q9zMI628Kjj6ZcY1/mc5A=="],
+        "cityName": "vault:v2:j6b/0PEiaCpfEmp4yjZciMXSbvz7SQqwurfebIXVTTRB1EQ4",
+        "postalCode": "vault:v2:lc6msIliBoRqFxGXhOfqqaq5VaGus6nacNbDg8cZnl4=",
+        "countryCode": "NZ",
+        "phoneNumber": {
+          "dialNumber": "vault:v2:Uhe7X/cyxKYalshTUjUOoojLKRSExbB55LCkaQjYz6fqEgAKwK3uaPNb"
+        }
+      },
+      "signatureRequired": false,
+      "type": "Delivery",
+      "shipmentNetPrice": {
+        "amount": 52.18,
+        "currency": "NZD"
+      },
+      "shipmentTaxAmount": {
+        "amount": 7.82,
+        "currency": "NZD"
+      },
+      "shipmentGrossPrice": {
+        "amount": 60.0,
+        "currency": "NZD"
+      }
+    }
+  }
+  ],
+  "totals": {
+    "saleItems": {
+      "total": {
+        "netPrice": {
+          "amount": 694.78,
+          "currency": "NZD"
+        },
+        "tax": {
+          "amount": 104.22,
+          "currency": "NZD"
+        },
+        "grossPrice": {
+          "amount": 799.0,
+          "currency": "NZD"
+        }
+      }
+    },
+    "adjustedSaleItems": {
+      "netPrice": {
+        "amount": 694.78,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 104.22,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 799.0,
+        "currency": "NZD"
+      }
+    },
+    "shipping": {
+      "netPrice": {
+        "amount": 52.18,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 7.82,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 60.0,
+        "currency": "NZD"
+      }
+    },
+    "adjustedShipping": {
+      "netPrice": {
+        "amount": 52.18,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 7.82,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 60.0,
+        "currency": "NZD"
+      }
+    },
+    "order": {
+      "netPrice": {
+        "amount": 746.96,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 112.04,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 859.0,
+        "currency": "NZD"
+      }
+    }
+  },
+  "payments": [{
+    "creditCard": {
+      "cardType": "Visa",
+      "maskedCardNumber": "vault:v2:htqBsyQjmKKcAF9N4fzZIcHDhbo668EunZ9g3y4dJvtldKtx+qkDDV5hnrH2YfQ=",
+      "cardHolderName": "vault:v2:b/676w8n3irTorNpanCOmVSqaFmK/JKatYRQoBOjFQHDVQMzmg==",
+      "expiryMonth": "vault:v2:eNFiUsjh/gdol6EIphAEZoBv2m9UpSJuwVCS+Ns=",
+      "expiryYear": "vault:v2:rvlJTs+I4+8CJLD8nE1zu3TuGwUucmWAFaDC2yPS",
+      "amount": {
+        "amount": 859.0,
+        "currency": "NZD"
+      },
+      "authorisationCode": "vault:v2:CbjNtV/mCcGGPb4NcQWRCXWmp3y7PjgKZ9uVCwIZTRClVQ==",
+      "responseText": "APPROVED",
+      "transactionType": "Capture"
+    }
+  }
+  ]
+}

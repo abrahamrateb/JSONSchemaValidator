@@ -1,0 +1,28 @@
+{
+  "identifier": "CTWMS01122",
+  "orderReleaseIdentifier": "CTWMS01109GEP1",
+  "shipmentStatus": 5,
+  "fulfilmentProcessCode": "TW",
+  "lines": [{
+    "eventType": "Ship",
+    "itemIdentifiers": [{
+      "identifier": "863975",
+      "producer": "MDM"
+    }
+    ],
+    "quantity": 3,
+    "orderLineNumber": 1,
+    "releaseLineNumber": 1,
+    "unitOfMeasure": "EA",
+    "brand": "TWL",
+    "fulfillmentDetail": {
+      "eventDateTime": "2023-06-08T05:02:00+12:00",
+      "packageIdentifier": "9419695803513907",
+      "shipVia": "MFOT",
+      "shipmentIdentifier": "9419695803513907",
+      "trackingNumber": "9419695803513907",
+      "carrierCode": "mainfreight"
+    }
+  }
+  ]
+}

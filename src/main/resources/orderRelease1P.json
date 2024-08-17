@@ -1,0 +1,51 @@
+{
+  "orderNumber": "30001069",
+  "orderDateTime": "2023-03-06T21:59:05.000+12:00",
+  "identifier": "30001069GEP1",
+  "target": "WMS",
+  "brand": "TWL",
+  "orderSource": "GEP",
+  "shipmentDatetime": "2023-09-16T00:00:00.001",
+  "shipToParty": {
+    "phoneNumber": {
+      "dialNumber": "+64 22 0643675"
+    },
+    "location": {
+      "address": {
+        "firstName": "vault:v1:RJuyvyoGQAit30EsQfTJBB1lrNftN2d2OMedQd7K56WOBYZk1monQEHlcg48mLEIoGKY+3p1VwFYTi2Q9rMJltU6sZB62BgH2oSN3An91JzQvmrTdyTSKWbyya3bLpPnJ0DWEZodq5VpCYMmwjq0EN7Ox0jeVqbO2lTYeb+51AZi0O+UR3GHmGT++enNbn0XncjD4l+h+usYRiA5S9mc0SPzpJvCR5FuliMb6lVvENdVYMRtt3P4kO8iNKQbnFN47S7x4U9agew7y5YSn6GR4DwdlMuxv+zJZdmOa6QkrrwcSuYT6mVomTMbOEzinOo6ibLEVG+GtLkfnSUq/Cl2DO5Y/vd8YMB5SIzjO5HcUlacWsYugIs5Dc0d4RGqcphs/LSFBhvgI6OgE29GeYDpiajZ1diQ+qZCilsftPuEw9LYpuI+aw5RnfV3bQmwUeCGXw9YT6p+vYwCLp2cSf3l1qrlfcbyhizLzIxsv9uW6L+/yG9U014krpCQfjjAoRUBFKkAzgWJZ25TW22JqkXywXcYMp0ftgaZdcSkfxx8iq4ZuCsBgPFP9Wg4h1tzXyHRlzQlF4KxnwVoxwruzgLLOavsE1ktjA1QtMjYdXcjs2+pxlGcMhy0BdC3dCTk+LDyJeWNtPNT0Crd1iHo+2r1mRktWjAv9s76Y8Er0dNL6qs=",
+        "lastName": "vault:v1:kv+Uo/zRk+8JsVoc4LE0a1xNxdFrvno3YwuXMpv5gZILrkoTq6/V/bifmzvv6mzcJG4VhNwT88HK4kD1HHNnJSz4cowm1ElJiAGdlQNbR+g+1t8ZvITh0N34q5KCzeCYeCGMG8FVEDRgZiD0g6nDKkdv3vTk+SFJ3oGftVMxNbMEF1DeXh3cuZ85lNZmxF1PoUOHoPsJzdutrExxK96SIfDCzdF1bRvYch39bWBZ4Z0e8hX7m3oIColxILOaqvfgKJNVOe1I7cUhNyrX8oQqp3IA2vh59+DETLZAXZ5hu4O4Dz6HA5+k9pj6ISpkZTl++YRWmF9kT9XZ9ZaiUXrsa4CiwHOJpCnO8It3sHJUpfoUf/LFvYyhppDL+dVdpaqq9hWB8yfNrd0WKTLoiVIUR2eLTcPKQ0ofs4atGIqWlodQC8UG0BkVAqyiGtzoDZOvURmNgsWa2omg0F/FgpRHj/fGbb+bNZr/KmxxVPNd7qKyRaXkMUv3ebMevQ9bmJNgTs1HhMdjbBtmH20KnaVsxTyT8WANkU5YEe2VxvQ3vBDtSvxbJIhLR+vPOU9EafRfToorluiHLfwg5fOlWzBTC5wfuyoxyvx7jKxGI8V08zWzUsd5gIebX3JFiyItMEALXbjHu0kCuZueQnuCsasBJ1fgMgIWGv7FviZxx/gAdlQ=",
+        "addressVerificationIdentifier": "vault:v1:j8OUFa4MW1zdeTwb+zjwMXSKW0pTTc7Ek1ydzSxePAVsi4QDx4fTooGFUeVeFMizCUJ4MVoEyrvnPmmCMtQa8x/UNg1JUpHIpBuGIMyxK8OdDEbwTcg/3xAImGMUL0GqkeiQrTsXG73iVdeHXaTt5Lu4KlNF+4OOB5gPI1xs00cjESRRH+gehH4dGK+y+HX5zI7S2CKzfL1ltgfm1cE2pgkYSyABNfTfQ0B7uV59M2D4xUgDnrnSFbpMDg8yhkMBAViQ2/xv1kx1z+XaQy6vobkYC9m7cbBHV3fXVc8P6xSkldlhZLdwYXbi3ukkYgPaFh0k2qYVgCxVm6EaDnlSZYAgQuk+hOHLOfQ0lVIV6D6epf3V0mLcPW/+lKpRop6wb4BIsxB2iR+zbeng7VmjJlw+BHAgcInv8gPUJD8b0rVjaKN1g8zFrFys9Kj+qJ58b7qLYdvtpLhVtdMAv70InCfgv76PN7XrOaGWjsCBLr2i0LHNODxvuaaQcFree8zeEla2GAcZxwtHG5+i6eOQSI4Lt1plDEhFnIE3NyUCLYogrWGAaC9W0Bi9cEz/ixYjTfxysSZIK4aRR1tJ5mFeIVyaqGCE1Oi4anJ1yO5zm8mqfOvQfG81N/TTQF5WPOba3Q69suUAkiIEFzn9rdDioqHX8P9yyy4XfwdxdKRl+KY=",
+        "addressLines": ["vault:v1:STynoxeSoPbF8Ocquxu35Da19mDv/YPkTku4ipAE0ZHM1Oa8pRDz/K+C8hmfbjuVINd05k9MQjW1Z/7YM4p41BovtGEDP8/VE4IwWKsg4dQywAaot2vM3SLeIdfymF930pjwwMv8K0HY44nJlhcqoNDcIryirvFXeaYZ6OMkML6utSL93rSCpKuuIIfhG1KOxDBsF+4oBVxDjIfsCD35xJEV+ZpXWvPb2adnyGIaGl6/YbUrFUWXC9Bg8rN1CJJfaRO0fJS4H8UdvV61ZgJ/NWAz/gLqFdatHj4XDFiDPoWhuvUfsEpCTQabJlhcPpOjQh8wtXVgG62rlCgrUHK80OsJUjio2iFGsAS4qD7zaXvAk1Pd3qYDgyL60K8a7VhbEkH6Iy3xn/tt91JPEWXukYMDaXL0e5P5NqzTBqKKnaRVj2aP6vYvBBwkVKE9ZIIBZEMD7/IbHNstft7Ie3RrT7s3oemdCfIcsOKH5x9bz0KIbGH1CT0tqUwom110gOFKcwxq4Qwtw5K3FqENS1V4WtR2mBHDPnXfvhCcA6Ajvx5xmAL/LMAmU2TsnYYcRftS3Rv3jNmn+xLgiEJ9BIU0E3ILgBxWApjpkB21xsSptqiSjlZ/UYybbmjJnDOCWRKLBSceD3PdrMFxO81Zo8Wl0685h1g6NjOZ6g6PqXT+kng=", "vault:v1:V6LZyxCFAgSa9bmKYuEnb7VltSZSgldBsXO1/CwSQU0+P+gzFJaaS21olUnNoetq1MGTJW8MBxa/pcb4X/ndMgTzcohryf5Q7xg2Vq1BvqRGsZyVvPF73C3aE0k9JEySMuYXqOYExOpC9hHTSwFAZ8v2TmvodSgrZ6z9HHXHlg2iuwQXAYseOJrRX7G7hqEtoa2tLDJseiINsetCinsHiSTuFMro9xwC/vxj4YAgxxyDRIhtZOSIez7AVyl/aMYJfrkoToSH21Tj4ZBQRLJGFSQWnN4/14U9uixp1OYWPokCkv3O/iAgDuxTsp8a2lIHuEsKRAkngV2iemioumiANYtUQH6765T+aRFoMhlnCnKUcfWYnSd7MnQWjusWyuZ+LfHW5NmbfTlLDOE8CRjxTWoW4YL2ITf1QAk78BzNedj3rcaQemB4Zlsjj+5y1Fqicpu6jnN2Rhxbs9V5oLs6Y5Lh7ETe/VxpuR6Mj294Fh/lFX6LH7nQzaDMX27xxEbUjr6HgBVGcUNiZ+8x1BOhc+ir9WS0xXq1E+N3YafAJw1wtYrB+mJkGw59YNJtE+tA9wZl0E5px3JxNyzTOH5NWlhKsUQtCgHb0VoZIr01J0jlsugNO5gjV5zDGqLhDJeWnDi3kJPqGZl2DMNO5iA1eF0FUMxK7/mWSrUvvIMmLpo="],
+        "suburb": "vault:v1:RmBbnNUxBFWTrJA04XIWojwcDhOfKsq1UaMi4M2WZLcFKqC9X0xqLpay1tXaMEJ4I3qWlJy8W+q2+awPU9EcNrtIJhiWK39dSZuINwkhMdPR5TYk3R1lAPXnhZnbl5oZr1C6jWXnV2hXwuZn683rdfNak5Lf+unle2kkrpCITUNztXtclIeK6rQTgwiy72s1fo5nKBUCoxl0rJTWEamBQZyybyVNO5lyoQBGRXqJcvOukQFUtyjGxNs/WMgSRS9+pP3lRvIA+BnA8Q1COxELoqs96h+l2EXYAWiEDPg9OKflSQ3OgMjpnKoSCipf+rCrJSWEXEdoY4AsS1Q5jbLt17UqvbQjBrVoBe8k6y/ooYrMpwafvrwH/lsg8YG/aS4cQ+LdplZCvW6TluMHzwZ4hVk56jnDduADc0sGaR/URnMSqcmHTV9RZQxEkqdVjmQf7bMrcInpAcwYvlkvb3Jr/B7HR/JJ2gnOyS5BsmmJG4OoXDkSzEbceKlXWoejZNeoPdo6q+/16L2BM9UhFjdx4uM5vXBsGONGPmW/Yo0b/XXi3ertQ1BcHQeiq1MaiNjLPRdNM7jZVB64IGfFHFth2GWolCzM+49uxKhbb+f4GiZoBlRiRKC36FQjSZw7/eNVFyQGUdcMpTiNqXksahZEO8yfc4fZpw0MGYyv/UcwVec=",
+        "cityName": "Auckland",
+        "countryCode": "NZ",
+        "postalCode": "vault:v1:AuXEAX6L5zag7R6KlEOo0w5cbR1LGTZBfos4O3F6AtYhQQYhSzcPK+c/0QowFWOvrH+mk30HygVWFObDniHQ3HtJrWt68zQE9K8yu7yMgYXtVVclxDBrnFUZGYRIpVPE+1ZQ6Ex/9xp0L/He0juBEKau4SDCy63voCxWzg/B26UUvygCIUdDRsYKlqyVLgt5ZdavMldFcDEkc+0aJnr5cbP9Goqe88iPpGhsx0xvARi6IsMNosTBxjUamGGF4zdzid4amkoSV+Y/ZqVsAWPPASeoNUxaHAG7E7t93Auzhnvrc7gOsUe0EPzqfFPBwrhnG/dYdlz368/x+/NmQmU6sHCDM5ziLCclFrVk22ILTAw2A+RVVUN9Zb8PV7xvBn3a1ZXrcov78+3kxBrheZEr3+2UARm9vvNqkO9DS1DncZavw5xVVWnqoSkgeL1Gqp5vEPYMHAxLjWRuT8766ovQA60Eu/IT0XgFpH161aVFhI2v7NisE5Cg+qqsNOxYvPDZ4o8Ey1a7ajNsz/MWuevkTZOPXYWfcuZk/5+U0IkAagl3Wvd1nCQFmqcMkerET8DZLEYmkGVoxsogWtF9wpQwkoMXiBmsFKdi3qUfOCk62TBJ8n0eiRN9G2lx6HzICvFH7vU8kLwcic/zhmCnuxz2qHzhWU/dmlatQzAww8c48l8="
+      }
+    }
+  },
+  "lines": [{
+    "itemIdentifiers": [{
+      "identifier": "423468",
+      "producer": "MDM"
+    }
+    ],
+    "orderLineNumber": 1,
+    "isDangerous": false,
+    "productName": "Ecowise Solar Motion Sensor Light 650 Lumens",
+    "quantity": 4,
+    "status": "Create",
+    "releaseLineNumber": 1,
+    "shipFromParty": {
+      "identifier": "8262"
+    },
+    "carrier": {
+      "deliveryMethod": "CLICK_AND_COLLECT",
+      "signatureRequired": false,
+      "priority": "standard"
+    },
+    "barcode": {
+      "value": "93112192"
+    }
+  }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "identifier" : "70366088GEP1",
+  "orderNumber" : "70366088",
+  "orderDateTime" : "2023-08-06T21:05:00+12:00",
+  "orderSource" : "GEP",
+  "orderTotal" : {
+    "currency" : "NZD",
+    "amount" : 22.9
+  },
+  "releaseTotal" : {
+    "amount" : 12.9
+  },
+  "merchantIdentifier" : "5304",
+  "merchantName" : "Fitness NZ - the GARMIN specialist",
+  "fulfillmentPromise" : "standard",
+  "shippingFee" : {
+    "amount" : 5.0
+  },
+  "customerDetails" : {
+    "emailAddress" : "vault:v2:X5sQmTE2o17B+pes85fUVCI0k2qHj3qgGk0nrZ0Q7Wm7hVsuAsc+sARbsWSGr48+RTluKgekFA==",
+    "contact" : {
+      "personName" : {
+        "firstName" : "vault:v2:I+9BUALQZdGczWsi5uwPGLOyaHynMRWEGWW1Jrl1u/sSmIA=",
+        "lastName" : "vault:v2:zEM+eNgslXo3KFOqwsNknFUm+byEwOtin7+Y4J51fKyk"
+      }
+    },
+    "location" : {
+      "address" : {
+        "addressLines" : [ "vault:v2:vydP1RFvNAqudVkgRKWIHNAcMoMHdEb7VQCFeuuXISyPvtA2B6Phr1jK0q/N+A==", "vault:v2:8BlrH5UMz+Tm+oY58urXcpCev0qskE6UHuAbkVzyJiRK2aHKPUc=" ],
+        "cityName" : "vault:v2:Ua0mP+B+I+BOk2MhDjWCL0q2arcsTLnXLvLJDoFhhOjwGyr1",
+        "countryCode" : "NZ",
+        "postalCode" : "vault:v2:oTnR9f1A3C2Zhfhiv/JXAgxqtLT48z7Lg7zzsq/GVH0="
+      }
+    },
+    "phoneNumber" : {
+      "dialNumber" : "vault:v2:z66aWIMFGxNkwFKr2yJXtY7PCe45YIdu5Pg6xjrbJQVnVO5XU+qgKaka"
+    }
+  },
+  "signatureRequired" : false,
+  "deliveryInstructions" : "Here's some Delivery Instructions for you MIF guys",
+  "shipToParty" : {
+    "location" : {
+      "addressVerificationIdentifier" : "vault:v2:TzcZPIIpDHfg1R/saHjoPP4r3OouXBjX9oidmf6K55toNae1pRBoHNbwEhgwnGiQDoewwDCWWM1IAJV9"
+    }
+  },
+  "lines" : [ {
+    "itemIdentifiers" : [ {
+      "identifier" : "6638112",
+      "producer" : "THEMARKET"
+    } ],
+    "orderLineNumber" : 1,
+    "releaseLineNumber" : 1,
+    "description" : "BRACKS lace lock - Grey/Lime",
+    "quantity" : 1.0,
+    "orderLineStatus" : "Create",
+    "basePrice" : {
+      "amount" : 7.9
+    },
+    "unitOfMeasure" : "EA",
+    "subTotal" : {
+      "amount" : 7.9
+    }
+  } ]
+}

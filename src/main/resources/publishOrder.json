@@ -1,0 +1,106 @@
+{
+  "identifier": "13350CC",
+  "alternateIdentifier": "24669752",
+  "orderDatetime": "2024-07-22T02:41:45.261Z",
+  "source": "GEP",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "orderToken": "zfFJXauK37AmFh5qBEbL5d2649d14dd14d4b395d5fff285468a7",
+  "businessToBusinessOrder": false,
+  "notifications": {
+    "sms": true,
+    "email": true,
+    "push": false
+  },
+  "lineCount": 0,
+  "lastUpdated": "2024-07-22T02:41:48.792Z",
+  "returnLabelUrl": "https://twglp.omni.manh.com/docmanagement/api/documentmanagement/",
+  "changeIdentifier": "24ef4d23-676d-4510-b03c-2d1a35a77b35",
+  "customer": {
+    "guest": false,
+    "identifier": "u3oKBTFwBdQAAAEt539Ha_Th",
+    "accountIdentifier": "0032800000Zh5MUAAZ",
+    "loyaltyIdentifier": "TWGLTY989dbff2-f3d3-4681-8df2-dbfebb191214",
+    "name": "vault:v2:5gjdDptWeqtr34p+mKX4PuX7QW9X5DuWttTlSpKAIqC0vKEIhvrLgheGxCf9",
+    "emailAddress": "vault:v2:BjSjo5wvNWLOT+RrcOHCDlpsaeycVYerg6za/P1dUjASsR5rO1Tjcs40XooONR81",
+    "location": {
+      "address": {
+        "firstName": "vault:v2:4aOci073p0vHLT1butuJO81ffRhmWR8T79Eesq0ss0DbU68vPYwr",
+        "lastName": "vault:v2:CvjbvHj1enQ64c+9uKgcncDEyqXB6LQ9Xkzix5O/IC5e",
+        "addressLines": ["vault:v2:O2O/eXHYESbVa1Jwm0SdIc8F7JaFV1dGLWlurDV/Ev4GI2eABJa5fe0fphMT2MO2RBgQbQCVPrvIugsEYA==", "vault:v2:j/7EvRVhmCRluYrgLaSYtJOWTkI6Q/DVbd7Xd7swrDL8gzZVwZhW4O5xs5o="],
+        "cityName": "vault:v2:5QWVBQGXyaxCR2+lKvXF9FmD1ZgUtbhyYE299sqS2NpAJi1D",
+        "postalCode": "vault:v2:wpJJGGtKjH/1U5Da4Zv+RzvftiZ/cf0d26JBHRYr9aY=",
+        "countryCode": "NZ"
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v2:/efGBQEmEgJtPws4gTjiUv/1zIVNEgN6UW/wEw25cE4Oco3y+XQwI6th"
+    }
+  },
+  "lines": [{
+    "channelType": "3P",
+    "merchantIdentifier": "6262",
+    "merchantName": "Biwitishop",
+    "description": "4Pcs Anxiety Breathing Necklac",
+    "lineNumber": 1,
+    "quantity": 1.0,
+    "itemIdentifiers": [{
+      "identifier": "32340323",
+      "producer": "THEMARKET"
+    }
+    ],
+    "itemName": "4Pcs Anxiety Breathing Necklace for Stress Relief",
+    "orderLineBreakDown": [{
+      "itemQuantity": 0.0,
+      "status": "PENDING_RETURN",
+      "changeIdentifier": "24ef4d23-676d-4510-b03c-2d1a35a77b35",
+      "changeLog": [{
+        "oldQuantity": 0.0,
+        "newQuantity": 0.0,
+        "modificationType": "QuantityIncrease"
+      }
+      ]
+    }, {
+      "itemQuantity": 1.0,
+      "status": "RETURNED",
+      "changeIdentifier": "24ef4d23-676d-4510-b03c-2d1a35a77b35",
+      "changeLog": [{
+        "oldQuantity": 0.0,
+        "newQuantity": 1.0,
+        "modificationType": " QuantityIncrease"
+      }
+      ]
+    }
+    ],
+    "unitOfMeasure": "EA",
+    "gift": false,
+    "fulfilmentPromise": "standard",
+    "priceBookIdentifier": "List Price",
+    "image": {
+      "url": "https://themarket.azureedge.net/resizer/view?key=09b3b5cf06b412b2e9d677fc7f64e3d0&b=productimages&s=0"
+    },
+    "itemSize": "OS",
+    "return": true,
+    "returnReceiptExpected": false,
+    "returnReasonCode": "FAULTY_NOT_WORKING",
+    "cncPickupStoreIdentifier": "NoInventoryLocation",
+    "createdDatetime": "2024-07-22T02:41:45.264Z",
+    "updatedDatetime": "2024-07-22T02:41:48.797Z",
+    "returnStoreLocationIdentifier": "NoInventoryLocation",
+    "returnCreationTimestamp": "2024-07-22T02:41:45.264Z",
+    "preorder": false,
+    "proratedLineDiscount": 0.0,
+    "lineCancelled": false,
+    "consolidation": false,
+    "selfPick": false,
+    "shipment": {
+      "identifier": "06515025",
+      "address": {
+        "phoneNumber": {}
+      },
+      "signatureRequired": false
+    }
+  }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "identifier": "487603690997094",
+  "receivingLocationIdentifier": "113",
+  "transactionDateTime": "2023-04-12T10:19:57",
+  "lines": [{
+    "fromDisposition": "Not Set",
+    "quantity": 3,
+    "toDisposition": "Unavailable",
+    "inventoryAdjustmentIndicator": false,
+    "item": {
+      "barcode": {
+        "value": "00638995001933"
+      },
+      "identifier": "417797"
+    },
+    "receiptType": "Transshipment",
+    "transferOrderIdentifier": "27274336"
+  }
+  ],
+  "sendingLocationIdentifier": "110",
+  "transferBatchReference": "10002162",
+  "transferShipmentIdentifier": "473700549219828"
+}

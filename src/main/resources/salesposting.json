@@ -1,0 +1,328 @@
+{
+  "identifier": "24096687GEP",
+  "alternateIdentifier": "24096687",
+  "status": "CANCELLED",
+  "orderDateTime": "2024-02-13T23:15:17.0Z",
+  "source": "GEP",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "orderToken": "bhrIovEd4SITN6cnLLsS5e39d2e26b58a0e35939aa3654f3eee7",
+  "notifications": {
+    "sms": true,
+    "email": true,
+    "push": false
+  },
+  "lineCount": 1,
+  "returnLabel": "https://twgld.omni.manh.com/docmanagement/api/documentmanagement/",
+  "minimumFulfillmentStatus": "CANCELLED",
+  "maximumFulfillmentStatus": "CANCELLED",
+  "lastUpdated": "2024-02-15T04:25:35.0Z",
+  "customer": {
+    "guest": true,
+    "name": "vault:v2:HaSU3mW7Oe67rq/jg+XE8TLnFmoGleYk7XPP6UxigMYoia8GP3lyaQ==",
+    "emailAddress": "vault:v2:swhlgOZwfq4lFxES7BdeyUDvfwOKhMrVa24f7RF1yTf+u1B+l3vJ1mYlBmJycAUWF80=",
+    "location": {
+      "address": {
+        "firstName": "vault:v2:/ILIxL00E+Dt09ml1iiPe9/tRvROv0wayzJgQobjDG45",
+        "lastName": "vault:v2:SIP71ay4CXdx8i/6FHIE5NhPAOq5VMrbdDASy1wC1e9usA==",
+        "addressLines": [
+          "vault:v2:XLGYUawbpDiYdgz0MPAW2ChBVQci1daJiBQLKRoe5loNoar6x0Y+",
+          "vault:v2:Uvbyf8YnPYnM/aBkl4TYZx7Wid1m76LJMC5Tvu+ldhaMJ2jdIG8="
+        ],
+        "cityName": "vault:v2:PnXlhBXBDjENDln1h5uh+jL+tawH7NdOM6epjo3ChR85tl2Rg6M=",
+        "postalCode": "vault:v2:8Z+b4MNOceOjZZQ192/m9B797yVEs33BRen2qDtfkMY=",
+        "countryCode": "NZ"
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v2:CgzPNiJTL5xegNPBC6+LPfQSmZD99vArl1ZSW3ghqHKs1W8eWc+q/FU="
+    }
+  },
+  "lines": [
+    {
+      "netPrice": {
+        "amount": 35.65,
+        "currency": "NZD"
+      },
+      "taxAmount": {
+        "amount": 5.35,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 41,
+        "currency": "NZD"
+      },
+      "basePrice": {
+        "amount": 41,
+        "currency": "NZD"
+      },
+      "channelType": "3P",
+      "merchantIdentifier": "6298",
+      "merchantName": "ExtremePC",
+      "description": "Spigen iPhone 14/13Pro/13 Temp",
+      "lineNumber": 1,
+      "quantity": 0,
+      "itemIdentifiers": [
+        {
+          "identifier": "18530762",
+          "producer": "THEMARKET"
+        }
+      ],
+      "itemName": "Spigen iPhone 14/13Pro/13 Tempered Glass Screen Protector",
+      "orderLineBreakDown": [
+        {
+          "itemQuantity": 0,
+          "status": "OPEN"
+        },
+        {
+          "itemQuantity": 0,
+          "status": "ALLOCATED"
+        },
+        {
+          "itemQuantity": 0,
+          "status": "RELEASED"
+        },
+        {
+          "itemQuantity": 0,
+          "status": "BACK_ORDERED"
+        },
+        {
+          "itemQuantity": 1,
+          "status": "CANCELLED",
+          "reason": "short"
+        }
+      ],
+      "unitOfMeasure": "EA",
+      "taxRate": 5.35,
+      "gift": false,
+      "fulfillmentPromise": "standard",
+      "priceBookId": "List Price",
+      "image": {
+        "url": "https://themarket.azureedge.net/resizer/view?key=5c952094ffcea7e71560e41e00e2d7c8&b=productimages&s=0"
+      },
+      "itemSize": "OS",
+      "return": false,
+      "shipmentType": "Delivery",
+      "createdDatetime": "2024-02-13T23:16:21.0Z",
+      "updatedDatetime": "2024-02-15T04:25:35.0Z",
+      "shipment": {
+        "identifier": "05987025",
+        "method": "standardDeliveryUrban",
+        "address": {
+          "firstName": "vault:v2:cgX71D9SG15vQlDQzr7ZKJEjMPlM0bwO6QE6kArmJGcL",
+          "lastName": "vault:v2:TV/8HEnLRUw5lWKoL7jj+fT/3lnEnN0aIIxMBjWecEAr7w==",
+          "addressLines": [
+            "vault:v2:ZHsvLAF+o2EQM/NxBxrP/O0NsCGsH+j+O6W8OqjKqOKghmrOpJDv",
+            "vault:v2:CPVxvu2Q+1y4YN7GBQHR2t7PNDBexGccBvcKSG59YTREtdqgR4M="
+          ],
+          "cityName": "vault:v2:lFvUL0R7XF813Cqx+x0Dq3Q37o9FqAaAB1SsC0otD1IZZe/aYC8=",
+          "postalCode": "vault:v2:cSs+zrQAxuqEqT4Tjzr68+cfcs1zoQZ3FTXN1nlUu9Y=",
+          "countryCode": "NZ"
+        },
+        "signatureRequired": false,
+        "type": "Delivery",
+        "shipmentNetPrice": {
+          "amount": 13.04,
+          "currency": "NZD"
+        },
+        "shipmentTaxAmount": {
+          "amount": 1.96,
+          "currency": "NZD"
+        },
+        "shipmentGrossPrice": {
+          "amount": 15,
+          "currency": "NZD"
+        }
+      }
+    }
+  ],
+  "totals": {
+    "saleItems": {
+      "total": {
+        "netPrice": {
+          "amount": 35.65,
+          "currency": "NZD"
+        },
+        "tax": {
+          "amount": 5.35,
+          "currency": "NZD"
+        },
+        "grossPrice": {
+          "amount": 41,
+          "currency": "NZD"
+        }
+      }
+    },
+    "adjustedSaleItems": {
+      "netPrice": {
+        "amount": 35.65,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 5.35,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 41,
+        "currency": "NZD"
+      }
+    },
+    "shipping": {
+      "netPrice": {
+        "amount": 13.04,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 1.96,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 15,
+        "currency": "NZD"
+      }
+    },
+    "adjustedShipping": {
+      "netPrice": {
+        "amount": 13.04,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 1.96,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 15,
+        "currency": "NZD"
+      }
+    },
+    "order": {
+      "netPrice": {
+        "amount": 48.69,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 7.31,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 56,
+        "currency": "NZD"
+      }
+    }
+  },
+  "payments": [
+    {
+      "creditCard": {
+        "cardType": "Visa",
+        "maskedCardNumber": "vault:v2:Si+0v3tmr+oMiyDmIToXP7Lhb9Hbvqu1ujauk0M5NRsv3bOiGuAHXOgdP1k=",
+        "cardHolderName": "vault:v2:oj/TL1BtJNOunXNqeAGfnP4MNdUj5p+2542XRazdVPBzCmCdFNY=",
+        "expiryMonth": "vault:v2:e+hNx9fl63DZ1TBWHDVM2HbLSwMwgxYdGcesqlU=",
+        "expiryYear": "vault:v2:jDSZow3BueMP6xyN0JG+DqKO8VSyAOUjKmIKdo93mbg=",
+        "amount": {
+          "amount": 56,
+          "currency": "NZD"
+        },
+        "processorIdentifer": "WINDCAVE",
+        "transactionIdentifer": "000000016481f96f",
+        "authorisationCode": "vault:v2:5BYSrdyJwWGF6VovROm+X5ErP+Q+CTpeZ08hiD4jjbhswA==",
+        "responseText": "00 APPROVED",
+        "sessionIdentifier": "0000010177363875011678b39d4324d2",
+        "status": "Authorised",
+        "liabilityIndicator": "3ds2frictionless"
+      }
+    }
+  ],
+  "release": [
+    {
+      "releaseIdentifier": "24096687GEP1",
+      "brand": "TWL",
+      "carrierCode": "NZP",
+      "deliveryMethod": "ShipToAddress",
+      "shipfromLocationIdentifier": "MarketPlace_Virtual",
+      "fulfillmentPromise": "standard",
+      "createdBy": "vault:v2:D0K3aODsjv2Q0aCoN3Gkxji9ihDtRuR0UKUZcNoi0fpUmRWUbFUc",
+      "createdTimestamp": "2024-02-13T23:16:23.0Z",
+      "updatedBy": "vault:v2:eiziJJA+Gxaa+FxKmvyKCKr8eDOoq6O8h+dltS4XWHrHMEQnLnXM",
+      "updatedTimestamp": "2024-02-13T23:16:24.0Z",
+      "lines": [
+        {
+          "allocationIdentifier": "399730244433391435818",
+          "quantity": 1,
+          "fulfilledQuantity": 0,
+          "cancelledQuantity": 1,
+          "itemIdentifiers": [
+            {
+              "identifier": "18530762",
+              "producer": "THEMARKET"
+            }
+          ],
+          "releaseLineIdentifier": 1,
+          "orderLineNumber": 1,
+          "brand": "TWL",
+          "unitOfMeasure": "EA",
+          "createdBy": "mif@twg.com",
+          "createdDatetime": "2024-02-13T23:16:23.0Z",
+          "updatedBy": "mif@twg.com",
+          "updatedDatetime": "2024-02-15T04:25:35.0Z"
+        }
+      ]
+    }
+  ],
+  "salesPosting": [
+    {
+      "invoiceIdentifier": "0215042535",
+      "parentOrderIdentifier": "24096687GEP",
+      "invoiceType": "Cancel",
+      "invoicePublishCount": 1,
+      "invoiceStatus": "Closed",
+      "brand": "TWL",
+      "invoiceLineDetails": [
+        {
+          "totalCharges": {
+            "amount": 41,
+            "currency": "NZD"
+          },
+          "itemIdentifiers": [
+            {
+              "identifier": "18530762",
+              "producer": "THEMARKET"
+            }
+          ],
+          "quantity": 1,
+          "unitOfMeasure": "EA",
+          "brand": "TWL",
+          "lineNumber": 1,
+          "createdBy": "mif@twg.com",
+          "createdDatetime": "2024-02-15T04:25:35.0Z",
+          "invoicelineupdatedBy": "mif@twg.com",
+          "updatedDatetime": "2024-02-15T04:25:35.0Z",
+          "invoiceLineIdentifier": "0215042535",
+          "chargeDetails": [
+            {
+              "chargeTotal": {
+                "amount": 41,
+                "currency": "NZD"
+              }
+            }
+          ]
+        }
+      ],
+      "invoiceChargeDetails": [
+        {
+          "chargeType": "Cancel",
+          "orderChargeDetailIdentifier": "0215042535",
+          "chargeTotal": {
+            "amount": 56,
+            "currency": "NZD"
+          },
+          "createdBy": "mif@twg.com",
+          "createdTimestamp": "2024-02-15T04:25:35.0Z",
+          "updatedBy": "mif@twg.com",
+          "updatedTimestamp": "2024-02-15T04:25:35.0Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "identifier": "23032707333146TWM",
+  "alternateIdentifier": "23032707333146TWM",
+  "status": "FULFILLED",
+  "orderDateTime": "2023-03-27T01:46:22.0Z",
+  "source": "GEP",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "notifications": {
+    "sms": true,
+    "email": true,
+    "push": false
+  },
+  "lineCount": 1,
+  "returnLabel": "https://twgld.omni.manh.com/docmanagement/api/documentmanagement/",
+  "minimumFulfillmentStatus": "FULFILLED",
+  "maximumFulfillmentStatus": "FULFILLED",
+  "lastUpdated": "2023-03-27T20:21:06.0Z",
+  "customer": {
+    "guest": true,
+    "name": "vault:v1:qVVVWvzlOgtNZIf83luXvY8MrI1LRkRzxThdbFAlIRjDC/S8nS/rDY44cTpSZXmG5MButPe1PSgBHf98dxizYE9Hsbz/r7yCzeZqqAV+zTTh4rx769rzQsbcjwSxuNgv+BdD/E51GlxUgPaU1kwCwsOBytnnq3c+xRFQtqhsGSADFLAYNWNo53XwNfAOJ1uoFxzaB6LSZRvLqcw1ZEVnxAEejGUe3JbZ9afZaGy/GT5mkilsGHCLMjGC8/lET3Zp9eU4NXMLHVBCy70HPy/TBhCue3ankkMFag506hkORAcwee3Yo0KH7MPnEF+V8KbVxzNmo8A27xS6dkuY/AasOfWJ23k7c9nFkDw3e8ytb+Gk4kGEUwM0Rwyv0Z20Gxvf48O9GEuoPkEZYKjVR3R9SELGyCWh/9UCHWrgMlBuLjmjfbzaNlPyBwBGF49Ie0CN19MIsuo57GaUQ97npPJ7gCJheiO159QTcdung5FnXY+kLHHGGUOkUBRsCfaY1xchP0drcAn2fwKkt4eZ6EIUDRD70nVHpyQBRSHliJYXaG+dm5aUZ8Gb6Y7YoaVE92OTxwoT7FOBR+q/msvFJhbbSPgq7EcgvZiWwteh8VvWS6Kan3jiCFOv71kof2MDeqTybXOcdRi2CnkB8myv1Oj6EqV2bKOPkgbMWgku0EBmXkk=",
+    "emailAddress": "vault:v1:wX5sfqXemLUzUkgniTG9JBJcUZnkPjHc+hhhcBVucCA9u7VmRKluVH57N2S65+lf6zW7NyPr3TZ8xoF4I5rUYpxGlWKMyjxoia57C0XhD6JDSrQaPBmndoMNwm9r7IBgOCJeyctUjNQ6HDrdahKvBq8lc1RDcdRKQ21A9AQQGB85Bj6jycLKtbYL084HCgwJvpFDeW2X/Fb64y7bSRwoOV2bJM5X4ZbDs10d41J0NnbIzdgRWifk1FKF6umnyn8gJZjGzlOllo2eVoxWjHjOq99HYzW6MmTamLfACrtEwcaa/MJqCUUvQecte05SRZ0XC26FCz1UyAbnleWFh0TCSE3X1s7xJRi0Sy3Is22GvNcR/JOt4w7IUoSfHrNBLXOtwbvQZAOfMnDZTPneVObM56WOmeCGQ87kGMs8QiOq9lBQVHAUNcXZaCKUO7swUviGZI8snJ30VVdURGPtM6TYV3ojJvKciS+GAv9l+/ALrp7yWkQWrDgy9NDYfjMcFnvqm22hFMCaaBom9cLdmDbdcmKGNR47NMBcWZ61Y1U7WEE7z/t30ug/hxSEjR2z+LmkqaWJHwvZNd+yJQecBLvEo5lG0x2HqFvGBEicui/RTY+AICboS1DjoMOdaw44+cBUBbBX8SFOLIcCtucOo+OU4s9cwvPRbdlamrXqjbnVH58=",
+    "location": {
+      "address": {
+        "firstName": "vault:v1:SPa1j7fU/ZHODxuoobvVWl4ub5qByWSlQTZ7fEl7KBRsNkyPFrsBxKivAej7TRMclPUKLpoTmT+j8t1nx0Y5x46dlDrNIqXpvzZ00hcHR/dMTCm+xtTSx1Y0xX/g+I/HT1xPfRBZ9xNe8VIw00EQJkB98agkFQ8CdyRqToT/W/cyrO7/DU/+5eFQoAgv1BBoORLvbYrNWLF8EF44GtM/bV93DgAAeRqbn26ulIt0Ab6cAMqeFOwxsOfZUh1wGQyif7Jk/bUumsjffkbo9eFWMg+wl9Cx/xGODOowRvqXSLRSPOTp8Utp57p6JJHwki6PiiDoOQf8k6imBNWGbLX0xkXQWxQ5lPDR/pAIEpztzTka0/4PpLDScaMJbP3EmGgbas3VzcQqOkAJOIH2YZ8gTV5YHf9bRa0JqiXMum9YXq7j5gPmydIPPf8G1cG1qpUMAsYzfBLFjMCJiGiF8HiBoGEBn38oHk7zsNhQyfXxVeUvUVtEc3lk2OhVEBoxwR+QMyuV3beWOyie/gB27wDNRtoUih1j2n+pZvaG6nnPfEQ5i9BJhCAzNGFkMnI1p8vFLsPKmONeapeNz6j2+aPCBYyFhKMIBZznV5E0bUNQcq+Ezu0JbxeAi+vA32eXbf4hlAXyTlFgjnHJNFVwG5c6Sij1IIqauUUwDbQJtiT+3AY=",
+        "lastName": "vault:v1:HN67v+pXnd/gcGqRp1iutitEXd6JYri6IQIY2C5n0kq2kwt34LcZLA07H6/HnZFuuxPmPN85EpJNnovFe/hC6mJZi0AVRyAoLNxxP27qsYwy+dJyW6kDfqNh+nyqiHgQhiFN3MvJYx1VQYwscXRSJhzg/vvNmiGhn15zQYWjNgPgvp/sBFRrrRx7e3uXiHkl/gRj/Adtk2vkkI5zGW0fU7dw2IoFgLtw0u3IITE7wWH7jQa/7t8kqcw5Fkovr/IAS6HZCSfKSV5WMj9+7bbbkUAxPTcDv6naSbPOMrDekbopks18WGtvfyG+P024iEPU3P2xOLbiQNbtTisf2Uv9VfkjqlAAG4CyYJhBDNBgnVM67sFrqGcYD9g3wTrNUe5pJaWn8rSosNLco2UcI1uARMKCunzE2lG42LNGj1rnPx45gtyyL04wjzNW/BzgHncXyn+ABx3uXbhZ93zL2gnqVvH67aUUUI8rPt2pR31XNmpnJHCEOR8yLJNzxzbqt9DHldaFjF0gfbqydEzDcqZeBHYoaA1gHBLXWXZLPYCPA2PJBq1nW8krb0fo4hWC37WSi6P6+V+0qF8ovzOKV5BPlGH5JQS6vT+JWFTFiW6Um96lqRtqJcPCo0ZV/I0zbegp4PdcU28RTiFQKTjyxQZSUfFQDVoWYigjgQZqkQZefZQ=",
+        "addressLines": ["vault:v1:eHSOxqLppGOhBqrW/KIn8My4cpeiRmyHm/PutgP8sy9H7qgZ3H8R+KC2nMlQ4/JPMuAQEVYeWSoyAST//fBwanLU8989tgYJKV+tvXGmsFlhcsm7xYfJARxRfdkB+epW9pwCvGROxCZcPc1yCICkM+uE1lWefAqslxLP8r0eOvjwJoICC7u0SurqUWzxbapWbpBBuf3tvvFbuuDryvgt9V+Z2SbdxvxWpjOyMOh3CQvtgMKQy3ih1tnHvChrY754iGZyXq3Tb2pez415K8VZ+YQxpHg6yd8kEFgPwuyp1RckMZNZwV0NuWrLE778dGuFETvGgKjIKmAmtRdQVzuh6x4UdNcgDiZIOQBldgzcJ0tMeTP5devJ3HfKzuFRLwtvvvGeHNxddhFf8L2aLSTft0HEJjRyaJJD8gOb1i5cAUCSOB5SNN4re9Rzc9WrgHoe5d3XgQR5OL8yFUAq7DC5SoKg61JzNCQk+7MPvl8UrHez0jluYdOaEjJ3RvPFhmvLb+sb1Jm2l+SbNz+hs6TgLigO5oh385cei8k1oYajxtpQvXUpFd1VchGDbGRJPVgCjlbOf4M+pOEVkRe8jLyDm8VrhKBRNllwos93yiGyq+mmf9YB6f9rOfqa+gpYSdMJgBtMckdBnVHc4KEaTLybQ6lx9A6wPVIcpA39967UEqA=", "vault:v1:eYfo60OPkr59R78bC9Juy9uFK1M4RMVvNf6EFlJkn/ula/2Azx+rYCJkCpweybNFT79ryPVGEt61jXoIzf+AptHKIY4XgnuWkYMWTvVOjyD3A07nto3O0vq24X0RqOAKZGCh6ZY1tL+lKma9bKWxUdrLE0GDuTDpoFunGbRU7g4ySJo4xf1lRyAU6PA6Uh5NQ/9LQo2pIqbYf56LD5c4Go/i9y11MqPxayfv+9sk7i/bV5OqHwXUCc4YLbBrsk6Ax7Q68O1LBCQrdbZLjgkjZU6Tpc3BN2i52dO47KgCvecLRsujg2c2Fg8F3iPayQGGjKr1w36tYZ3HAMeEXWr6/APCgULl4YL9PmYvOZS9LJAy6jWGeCcoagTbwVIpFRnpzZXr5X2C6BCRi3o9STUE8t+2rx3moOQTnRWvoJf52P+r6SJW6euF3CmLEJkCt2v/E6TAAjeI7+0n4yUGezBT4w1PDQy2yLVjc/JgktqHDG/4EYhONHRDZrJIXQLNCnsc2Dj4BLFLcyPc2cscNZ2krNgoYOV0wHuv/KZf8mD/9QnYJxtQaA8s44C89y48yxCDxoffEUmKfoz5pZQ24prmFrkUBNswUDjwai5sJSNDPViIdBOjKd1zmiLS/uPSZ29AiQZFaXan/1paS1qW1AKlNYZdjT6kEBHUYXFymOc1Ht4="],
+        "cityName": "vault:v1:q2LurkhhHE6HJKMofHZJkO7iEZw+dUDdED2bfdJOnbWtPZlKMek8Q84dW3LxY2LBq+aqnaX+89UefpENHuCdRH2ea2FYgOaG88wksS6dDsDxGFCUbwjQt1IBcpV+dkvAzUB4mHBFPD6TIkFqsr+5Kj1IN2ESlFuioOxKc7r1L1CDCqFzH1hRHuBinDOh/FL2RD4DtFVRErcmGG5S54mklhH9D51hcNWbugWL/qv6L0y9c40s6x35UrQ6irnxDhuQ6aNm9dQbNpro2MKrnC99w0WPcr8C/t3PKq5ZpIxmPApN8WprwoxP7UynMmZXFkRhnq25OgGuQlzz8WQ8friFkkdOKq1GGMhZa0XexVQo2qLwvnPmGNVH8Rqrjy3zZNuSW1jwglu8Kz8yX1GUSSHmN0vLLb9svudVe9Ogt9pEKo8NkP5XeDal1QiyGP4iSoDmtlXMctYzHCTpXfWchKSdF1knwrl/3BqOSS7VR92mmz1TCIp6+7Fc1lbKdZIpOtBXTAY7vYx6bjcuaX0vScZ2mSH8Vxl+zGc+W0nZQ7braouez+XFcdlqMUxDWYkzf6wS7N5oco/aHAA8wAlD1pulRNc0auFWeyduhb7cFzFOpLN9t6yytzTexNMNa0YvmgGPA7ZQ0BoFEZ1vjBuIBq54TJp8z4FxH2ppDd6qzkF4AKs=",
+        "postalCode": "vault:v1:cYjiHTl1rEmEqQEXYD+USIl+hibxCTWbdS6T8HpFBCr4160h4+ZUMbOvcoUsZMWrNRGB6bZ5uJk+GsWqXJw01XfccjSmO2YgE7++L+SIq040ZXXgYlYOFugGdma4eb2HO7Dfa+mDVedyQnvgAZrQq1b2IhxO316pi+oRAwsfoN/ZaoVfhlThJ/Pf1CKBw6j/c874g6/9ttDYznWUYTkD3BZCUs140x1ur5XYZUAFhXJuODk0aVULM56xvKlaM4AQW9qDXDlXr7YlZxOZfSRtJWjEnf5+WQgVCHOYhKv1q4+0ospCCUGlwHPqETi/SBjNQeSyZQTXlDlOoP+/TVpiBJMecK61I+cxUzS8LI3YyUOVsFOgYYIFyoegdNSgC7nbEhSarDftHPea1da91gNVPoJOX2C9vY6CAUhmYGfHqAD1DTlpVXYBwQpRu8oX6M88jJ26G/yHYj++z/SVPumOyDZhyzY8nKkEKK+5ne8yEP0d4moXY7Wuf2WQDuxvBxUTQPOybM8SUml6RHbbI77wuZI3nQGau4C35EYLpI/klWnSuOi+8YhLOjPEw00aBnTFsRcLeg/u0Sk0FLkehgfPrhihi2yW7qMp3uTDbrPsOYC8IzhFHDNRKarnCKRqyNI6erQoDwu7Vm4V3wakaQ8bcngCc+xxhfynuiRh6f4USSU=",
+        "countryCode": "NZ",
+        "addressVerificationIdentifier": "vault:v1:nZqRWq3Shu//ZhI2/gyME8l6ua5xJEwhMHwggZxwVYBT69o5sX6Q9RWhmAyQSFQ9BYsGmlLaLXAhU3OBuqlg37AguUIXovIDhA4ch9G7b6BLG8EaDcef+ERVmsA0a6frXAkE4KnCq+y75DszypbT5TccVyv9Yl8785cAm4MMw1vmTjMSoHJmOFB8B7LFXXzKR4Dd09I/IxUknO7JAWCYMHePMlgXw75WHfnHUK8EqosbcVfiTFjjfy+Rozx44b4Vqz3EYaA/Aoqu2UYROlUVRnos+3rqkwud9zNA+B1pEFy4OK3nMcRNY6dvdFKFSoLyfFE+Zu+4V8HNt9kDrOfoMDodKvNDG69JKS8fZJqvKw3OD5/Iz+fyxNMzsXKrEf+fJ6GTVKdmltCpfWtTDwdJys1zlKIs/9z9J3llvsg9rX2TJnFQYp83ts6xg2CdTPEuLTDfW8fQFPJb/DZQDHwSsk1u2JMtVxmYxrcylpgLcKgLxeRWMjVgqHzyfz3sfu1aCKNdFPa5486Aa/SSSqINl5MvmGRgeHbN0mY0JO5taAahCfU57X6IR6l2OYViFX7bOVRGWGiQS0Aj+AqaCi2rEEyjQesLJTlrYGCGhCDueMY8x/5Jn24O7Z4cuHtsKWSryopoigDMticW8rLrwScBuMnaG1o8OAXNgb/TZj9ngTY="
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v1:Hejqcz/n+K5nPde0rwYL+6FzRFszLploLjN3xAnFNbmtp1Y6xx1dtP3ER6Fvg9CR7KbgpRJf2CFyysI8Tjbg0sftSiPN0TGglTF91Cvzo8AvOGowNQB8QA0qtWN+L3bhk5pT9icmRFhwycJnC1LMKr69ierpxShzCFhhnhHZi5FAMuTqX6AABVyWv3fn2gKBIgXLmk1jr3L9xbJFe7FWsyYsI5DxgB/NF95w1QBbez/CC8gcKn3OlXt7fMnXJx6dFnlg+V02pboxXMXZEuGADhwozXNoGi19tH6jmzxN7650DfyaK3IGklLBlLvdlTmOnQWSiS7f0Ob4VXFhFjr/XdcaEa3EeAOhVNKgn9kTNxAHHENbU7TYqft0ox10+b7t1tGm6UUhsJGHAcNr7J0TgGzYwml/HOOr9OGMag2KJQj/KFy3yOB3gPsLWqVjtgyU4rDZQ9JsMFdWj+WMhgfADStOswu3q4y5rYDw7EbYpn5Leo4SkyVV3RAgna2gxQ9Mt8Kr8gmlkaJP/WcBr53coN2RS+ofXk9DGt61rTP+uOgZw2pmwTCmffp8z05I89bQ3eEK2sZGgiZ1akTTaa8VAdbWXhQ19TaxCR6t5UGB17OU+avu2C6hQSvt7UMerXmv8atwrA99NcVioGoeIXaEzdk5SGvNtI9X14tzzWA7asY="
+    }
+  },
+  "lines": [{
+    "netPrice": {
+      "amount": 86.09,
+      "currency": "NZD"
+    },
+    "taxAmount": {
+      "amount": 12.91,
+      "currency": "NZD"
+    },
+    "grossPrice": {
+      "amount": 99.0,
+      "currency": "NZD"
+    },
+    "basePrice": {
+      "amount": 99.0,
+      "currency": "NZD"
+    },
+    "channelType": "1P",
+    "merchantIdentifier": "4",
+    "merchantName": "Noel Leeming",
+    "description": "Google Chromecast with Google ",
+    "lineNumber": 1,
+    "quantity": 1.0,
+    "itemIdentifiers": [{
+      "identifier": "438871",
+      "producer": "MDM"
+    }
+    ],
+    "itemName": "Google Chromecast with Google TV - 4K",
+    "orderLineBreakDown": [{
+      "itemQuantity": 0.0,
+      "status": "OPEN"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "ALLOCATED"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "RELEASED"
+    }, {
+      "itemQuantity": 1.0,
+      "status": "FULFILLED"
+    }
+    ],
+    "unitOfMeasure": "EA",
+    "taxRate": 12.91,
+    "gift": false,
+    "fulfillmentPromise": "standard",
+    "priceBookId": "List Price",
+    "image": {
+      "url": "https://themarket.azureedge.net/resizer/view?key=b4a8b6f3f619159aa8a20add637d0643&b=productimages&s=0"
+    },
+    "itemSize": "OS",
+    "return": false,
+    "shipmentType": "Delivery",
+    "createdDatetime": "2023-03-27T01:47:32.0Z",
+    "updatedDatetime": "2023-03-27T20:21:06.0Z",
+    "shipment": {
+      "identifier": "04442548",
+      "method": "standardDeliveryUrban",
+      "address": {
+        "firstName": "vault:v1:vdvAIDgbHLIXH0MCqS8c8QB2rT6XDESVsxEmJ6SFaCjQ9uELekeqYjJR15IobOlRMDKG9P+HC19VHcNMZuiynhRHvE7XAvfU705nCS4CQnyQ+WoxzMzquaMJuxPwJv/PRrFFiG7+wCSESECiqkqOGxQWpvo91LCioqTGZj8KqsjzfUZpW5iGLTzOQ/sdt0i25BvITRc05T1BmAA1GajQJDb8I4tSKdlaENzaIuUyQV7rt/tzvNH5js6s9bFbd90wtS6+Fpi6L7rdjF3GH3gbgrTBNHBfPctAd6g+PVtkowKYrrLKNlvDdADu//EkbdWzcGgBhRCvt+5GdvCqpoLQYH1pq1p3Vb4lmu2yEO1FSX2weL1ZDbylwi12J2/i1i2m0YvUhsUEpizD9Oh7wzGUL47xLgm+VDGxm3Vt9Hn9Hjt+pKNbDHZc6wq2ULV+jRnRaskQm5N7Kb+1o8JZwPW4Pgyxpgomg6zsL74OGZ9ckJQ6uB+fJ0nZA1p91Wcyv5b6DtikRF7SJwJ4PKGJvXzR5k4fQcmKmW37Ol8qoN0fsxqJkslnd8/xAPt37b5QbJNx0l5XHF0bYQJMICmSwitOq4LTzz6Ogn5t6aDnFD4WyhOAup0supXt7JN3bKXLopBigRHAEk+oUpB2dBDivqKpD6HIMsVXpSdilY53dCQwNgk=",
+        "lastName": "vault:v1:O0OCCWeQJmY4q47VnoVkuFfQYt9pIdwzqfl5FloaWKNUX2jujLAHcLwc/gAoLeMLVEanSkRZazcA6/CYCzRm++qbw0p3o1e5ogiXr8scE0Qhsx7xVN9hlnR28rsLM4WWvAgot1DfCjDvkCkvQ7sgxgNTUhDhJoZiGR81C7NzySMRlu5KumZQuEZCpbFrFU5yrN6wvbLXfFekQET3ZqBUy5P4iWHrpeIXQ8wsI+cRAxs7AGVNAjtmns1LTts9onzNPh/OeAyWuPJY54gpYCRTdfosWoyOgl2TWrrd+SyXMB90GH+jAr2BBitebnV1EUzX/dzx9qC5Tf51+vnF8M+HJ6dAyn0b5s7zhWtIHC+elz0pq8+om17K2DsTm1YZ4UrHc39IBVSd28P+UtDS136/IZy3VheH6jGYiEk8b7k6JhsQaj8ABGa6pdDdpcQ/fG5VSYEYWsJ10/mgKm5qEQK+vYelqRm99b2BiiFDGrFcMJccL8HGqzXk3PR57Smki4itsTYTiwK2SfVeOHU2LshdQegtY4Ggan+CkUVJ27sR3A6ulHgXKbUaxzI6raGue2f0YrrvVbPdPfsuYL7jJrcBIzUx4dEnOSCKbIxxjqfUjI42iUbnGgZ/F1HYvGQuyvGuMNqRX0uMrrD+X5lIaoSNfd/zthnhoQ5dTKg65LdST1A=",
+        "addressLines": ["vault:v1:Fv0GnloOnaFfeV9z2s2sjtawY+TLjyz4rgFI3FFgsgqVv9oafstznL6PfdrGTkQMdTIx9NHC3BCJo4h+N5l/aPjrmygWkoX+9Udm690tRTTuN7O+JwhpIhd5I/mybd6K5//UOLSdFV32qvXN1mdkIhJpiGB4SiddlkktOJdCNqltZXONuKZbvjCuhVHNuRaRCpsEAvrHtrK5tZgdLG5htrt02c+yJZbCX/ioxN6BfqD1Z5ebljpRkdW/URGck2wXwLEL8PjAha3w0eYkcr6EdUVC9SBSnSoxXqE2vo3jJCVVbKLdBAxT2xSaF89nS7xAptSRCdkg+Axf0bAF8YW/A9Q/X9NXZDJHVwLzwuCPyJZdeWIWsDKgaCdQT4GuIGrQLgYK0vbdpANjb5DwN4OSin0kJeBQTc74gyF6z1oYNHTTWbng5vF2qViIK15RhPjF3+eCW5jCGZXG7HUBANg5sAsIdgfj3hsAP3MWyz05I3hMt66Ktj91tFh/rt66j1BSoqWILUqOlBMHxx8n/G/fXH2YaTf5HyJO8nUkw9CKkKZYlZB5iKqOnQTsKdvcoZkaC55PXK1itjhjr8s4Clln5fOhm3ZGarFrfWSg7RtEYNKNoZ2iqma84l1Hnhxt6TVrPjoCmSrTDZjWw5wn0tVimOCtdGaL1qYb8Wwr3GbhTVc=", "vault:v1:PdSKZT5aXfcGUJgZx69B47y3tnClYGOsRXlTeEBoHBc3G42a1L7GxVnRCa7avGZla1bqYYerlIkzvheiJXEuFKwFF+ikzBH+K6PiVOzvGgirl9qfPxmMH+Ws8l0wxCcMdFDUAvT408qAZH2dwoagPs6mV/k+rZGE3QuHdEhp66m7Hd4yqspDYfUnAp5HJMaxBazvTdmnsoYu0+nrwyuZpdm1XddduNDe9uXrZRxOQW0zNDsVufaJ0XT7pi0swfOlHlTojzzk5vWiX9TSsN9gQTQQkdQA5p4hfw2h9TrCcxSZBbUxY5GRdJSpPUr+hFAF//6FDZw7frxZN6VIP65REKMUSdhRDnj0ulNRUfR039/oNxlkUtLOHf3sl0SId3gYRhGcmc4/aghrod/AV+ryZuHx79G8wIrIUskr4k854g/59FI5KOQpv74inq6yPvhybLlqIHYeknAV+8yUsuXNlOeVESs1a8f5FX3pFMPby7WVJNCXnfwg7ZIWe1SsheSHQ3Uhu4TLGKEoI2hR5doJxMj30XjeJUkOWf8IJy7Z6zat+uN+w63Rua2DIothubsROr/2KUfvl3gJXJUkhBK6YQcd/BRNCaweCOhizTKoNI5EoGIvsK+zRhYa8kRWDT1AxbyGWMveSaIHFaRT79cB+oSOSlJkdNK7WHLiVUXf0ZE="],
+        "cityName": "vault:v1:sdJfCBkBMH3ERiJ0OMHuTz0WHtiSG6+zcnq3MqHCHLlNlMucM80Cs33t7bGadGQso4sEeYpiKSLtNM51kOYSS5YIKRRMK669ek3ImQI+FG9cw+fTR91RpPRSIkcdVN9QIcKzxDpY8Q15QawzDwTHLZcdE8wBGDpEKrPXX61DV9yYksZN5SoyQX80SHjlFZDqMbCmTJLyeTUXOrWmsYvnB/YTw+uPWttJoooDka2MDDIb0tinsOh5Jrg4ZpNMXeUGirKaoVm7BiiQlgEw7A1Y7qpVHT+7iDCBGAPQEoOoNlQEXOQeM9J0mL0leiCX7ghncCjFKMnvubi8CxxZTxCNIOFgJrKvlWk7iw3/AxoXvD5JgtPKLL1njCLO9Msa54uRBpMJwNAdTAyavPwrSDVRyJzpRInKjjGeCWr6myu3X0VPXaAnmqm7rcEFnCfsNVwdRrwY5IoHHrS332Q6jwckiTEuL/9bCYCU+NsWwnrmmfaqQRrB2/ufRJp5tFPXn3vwfP1b0qoM28UmVPmod8OUpc/bVsoPOCalxB2kQ5jIq/9uWzfdGTEu817ZhLRNGUziCcz0Se9fs3hPV6YxJk1ex2ldwFSUkr0bipBIdVL9q8ql70Iz+0FlYOoDgb77r8w9HfxuY2RHzr2sk9cuZWJ9HmBuOA7xPkEyUCjl/qcmdiQ=",
+        "postalCode": "vault:v1:UH039p0yExmQUE2zVNMogz1pMzA6xHzmvXiTgXLNjqYLWSLfwv+skuP1L5ZrbjbN6dTKBkwBN+fWwTw/b0m/Hu4gf926ZfIZroWwlff2UUmhu6xtVUd2DypgGqkB3aE2OEA75Msj7JpjxD6EslIF6ZqCgUZg+YO7GekNvOqgcWmbe3AzSolb3wiUIRDMoPsNlkPXXH+5wGoJGYkmS24p3KDalprJ0F8UnKXPEhP2+OsPy9R7ZOLLzhayIZxeFU7y08gtww/8It641eT7CTDRBYXWg1HbXL1RlD1Hr+VCWjuT6tU5I+U3LIEhOonkxWy5q5bjtEu817mN3/OcfJ85Ecgwz4GdgcisevaEBmqN9EsXn8Ft2XY0q+MR7fodSK86lIBhYevjja01ATEo5Y9ZNARPZJUlS4tidjD0ymkYpf3KvdcIEJSsIt96/uGckKZ6pKSxS5mnhEbPw/RZXcBunirNL1fVDwhrTMjq6FYHjG6s4JXJ2AX8BJIrMgbPtSOdrlG8D2sx6exPJ5sE3HQwwei9hHKh223UUyEHA0QUFOncKOM29IYGrEi3WHrIoX2pbaDC/awb1mVxxHOYrSIHtJ5HrSg6MeG1VibQrJkz9UzdLCgmBLMGuaDV5cJM5S/VcLJNlLgJYdPh7YNzXm1D1Hx4vxD7/U78g5KOcgi9YWs=",
+        "countryCode": "NZ"
+      },
+      "signatureRequired": false,
+      "type": "Delivery",
+      "shipmentNetPrice": {
+        "amount": 5.22,
+        "currency": "NZD"
+      },
+      "shipmentTaxAmount": {
+        "amount": 0.78,
+        "currency": "NZD"
+      },
+      "shipmentGrossPrice": {
+        "amount": 6.0,
+        "currency": "NZD"
+      }
+    },
+    "allocation": [{
+      "identifier": "5653617314832623544362",
+      "createdTimestamp": "2023-03-27T01:47:32.0Z",
+      "createdBy": "vault:v1:eujaoPf58v5fiSFeT2CaY1hyPVJ9KZ7DDNJgkLtXCW74lrTkRSAv3r9/G02hsmVuGHk30qV2KhXj4Xq4RC+Y5r2WubHfT/yvBE/gVv9DjosgEwlCIHvtVwtl+mRP3FbU5QsMQV/5UPKGbcJShD5YF9ekzHMjHoZQwneA0ooAesXgV8cFzlIUhWdMISsJQRA3dgh3rDRcNMgIpZ8L4I0IO2WZWHBeEd1h5URkIgukkzspbSr+/GUYS73hedz9KUsTETsDbG4W2BerdCRBq+TGFULH89mXhIrbDqnL7ml9zEfiB0JVjfNfenUYs8zKfi2x3s5/8YaeKVsCbrsv0iOojsy+/dnqwM+HKTSWzJTOH823bQTXYB2Qi7MVuPBupyo21SqBbTOQk+Y/M5cuuEmlMJTt0Ct95xoZqyFJxaventIPb3rm4pY24uyeRJVhh6gQwuFxQ/kCIlh2NaNUo0+xwriTgHRjpJrJlGbXUW4uOsnYgxOtiGyrFqSyfHADd988ZU7gJ47Vx3PrtILVTn8GwtOLTy4XI6WM7J8vNFTkClG7eTEo3+3yM/5m9ybO7ILr5FRSeweQbWZelM+n1nVK52W0o06jeTwM0SFchsZTDVidbU3ftKw/nKbbSvBdmyxnxr/hYHHMicDEGkn1PqAf8XD0VyZP6Su1sHtA9xL2ehE=",
+      "updatedTimestamp": "2023-03-27T20:21:06.0Z",
+      "updatedBy": "vault:v1:bLCes/X3tL6kG89Lr9U5KNoNB6VvG5ynSyg62MAGE/+apGIkvUByL0u5QMXZliPkbXpsAr3aYQd0CV/9OrU81nNdLAja8uhUrBOL5uy4HQtn7Bb+lZX5/cLg+bFjKBzrQZVlQPuLnR75pSb3DTP2y2I5+RsTAX2G+zmiqGJnK/n3E0RVVF27aKoO0XCmcWUBhyofEnpLfrlAoSCqlweAcrxtd81YZ2mYgtHgjViwsQHO8KahWI5OHGvec+LavDyruZ+MTp42YUzOrVuNDVBBAZHktUT4xf4vY+JzS1+jN/pQQE5+ON/48wb4Fb39ei+7xYQ9bf5HM5n9ppoyoVELogc9oevdXH5KPtj0y1wO92K4i8U5UPaOKSTHjahpCn+XMWH6KQKVl342y86uVnRsUBRy3AEtfAVDIMeZDX4s5yM86/Z4g0aWvjuU4gj/SP7TZ8d56xcd1AfdVh0cO+NrC92Op/UlQQn8R19kuUvQL/3miGY6eIN1T9dwf/XGo/ni1Adg26HyZPEb5f7m/rEKjOs4mdL0+kQm22A2f1Ejg74yFcwAG1QP5MrGmmgJG+FpeUy1yC0pU2uCr16WDBJyeErFgtTlXovqbQoJR0nlI3hIFEb3w3wQv5FIdTfzvKe9BUj5ifajqdvFmwfHZ6HGMC0WKMwrl+e616LW6rC4vBw=",
+      "allocatedTimestamp": "2023-03-27T01:47:32.0Z",
+      "brand": "TWL",
+      "quantity": 0.0,
+      "unitOfMeasure": "EA",
+      "shipfromLocationIdentifier": "MarketPlace_Virtual",
+      "fulfillmentPromise": "standard",
+      "shipmentType": "Delivery"
+    }
+    ],
+    "fulfillment": [{
+      "fulfillmentDetailIdentifier": "3432637679948466341",
+      "status": "FULFILLED",
+      "releaseIdentifier": "22299498GEP1",
+      "releaseLineIdentifier": 1,
+      "releaseDate": "2023-03-27T01:47:33.0Z",
+      "releasedBy": "vault:v1:FiiTvD2hEIJ9CdCIWiBMiJx9AYal3JSGa6UrBY3eHhuGF0mXYyHSg1jQjv6f+PF59QTWchfh+GI92/genLK5GnjPxRTIDK7s11C+dviGBOa6SNATGYLnL3FhK5xtaXisEXiGRUO3C0V+k78h/AvjO/XvWzqPn/xCdl8I4kf38+5WO6OQl3/C1DO1E6kg1f815Q2sGMilQgtmaI6iudqYRuoV9ySBO12nnWamMyqAykxuytC6y1ytva5GU3XsPpWRNZGX255AePzepSzgwQdPt03AkH67Yld1TO2FS5Fo2uxUMwsZbmLz0vq55djLHRYHYQOxqz2rQopQabJRU6G5XWGhZO+yoBTCDTuoIRNnjgDbWGkCwCiHtin4DDHGI55xPUbx2Kc7s5Z9FNdYmdxrPTrUWy0uShQuBbMSqgsCOWBzNas5/zs/fF1bNgBzlIPyf0jTLpJ55kkrldDYEnDJKmopTgax3naAfmiNRKzIDq4z4B7PfquO4aaQ+8fwI+vf/Kg3njSWhcyr596dlZbl3fYQiM8vpnsEdmvs1ijGPTkmhWLZY87pt9tIR2ZnZX67LKE2grafJssb8ty6swSuU7tcyTxs4BR140TWtI/TlFgdOdfrgXzRrX6y/LZri6j9NCpsW0XRKd12y8Yf28FDd4nHfuevZcNQtRFPv+Zzfbo=",
+      "releaseUpdated": "2023-03-27T01:47:33.0Z",
+      "releaseUpdateBy": "vault:v1:tllV4suBOJKFT8l36zgYQqKzyc6qjAKRHuG8dRB7oSGNhhaiMJfSErLAERXyeu3feGgMuUeU9a/6+3WYXLIUiS+ZqnWarJINJk2W324SU1tzJLGDTpCuKJM8DYBmtVW7HueRRC+mxNcVKZG6y0db8P352UhFv1pBW6Dr03r/7EL9Owf6yBveazrVMCyOYppXVrEsJVhJNu9mY2xuLRgNgYXUqRKgKwvCTXULJSWHKae63goktXhC4XlSFc/ylGbey8OoOzP57Ny0CtqvVMDpQ46cN9uhyFqm1oPAi70CEAwrlC+3R1dBIPaeZBdfY7qAxxUicAKZyRFEJLRTB1+RL4AnQpSwCS4RhgHokwjQqQuMqIvpS0ti0sD35yP4zKLl11PqfCeM8mM5qgmMG/ayowJRP+pou6XwEZsn8w+089WRs005GcQEhLU0cKHrDD5bdAcBeHp1N4SJuz43/XaGPoxpbs9pYBJoILBSfkZq2ropa/cE0N8rf47ns+9iNdZdEPwJrYpc96bLfxJc0ZkYlnUmsL4BPfUg3L2pPAtl9C3agp10h6KGBJrq6tIbJF9bjaGUCmDcQmQ/BXLWdPFhAvyNI7tLLGRmiIMkwYx+YrI5GUhNq9+3qRBTR73kkRPDjF08IxDkIBRP0fc77vTuBg1dB+1XmUTirJ/2amtkPT0=",
+      "fulfillmentDate": "2023-03-28T09:20:02.0Z",
+      "brand": "TWL",
+      "itemIdentifiers": [{
+        "identifier": "14745287",
+        "producer": "THEMARKET"
+      }
+      ],
+      "quantity": 1.0,
+      "unitOfMeasure": "EA",
+      "shipViaIdentifier": "CPOT",
+      "carrierCode": "courierpost",
+      "trackingNumber": "4608300008657801WLG001AN",
+      "allocationIdentifier": "5653617314832623544362",
+      "trackingUrl": "https://www.nzpost.co.nz/tools/tracking?trackid="
+    }
+    ]
+  }
+  ],
+  "totals": {
+    "saleItems": {
+      "total": {
+        "netPrice": {
+          "amount": 86.09,
+          "currency": "NZD"
+        },
+        "tax": {
+          "amount": 12.91,
+          "currency": "NZD"
+        },
+        "grossPrice": {
+          "amount": 99.0,
+          "currency": "NZD"
+        }
+      }
+    },
+    "adjustedSaleItems": {
+      "netPrice": {
+        "amount": 86.09,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 12.91,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 99.0,
+        "currency": "NZD"
+      }
+    },
+    "shipping": {
+      "netPrice": {
+        "amount": 5.22,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 0.78,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 6.0,
+        "currency": "NZD"
+      }
+    },
+    "adjustedShipping": {
+      "netPrice": {
+        "amount": 5.22,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 0.78,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 6.0,
+        "currency": "NZD"
+      }
+    },
+    "order": {
+      "netPrice": {
+        "amount": 91.31,
+        "currency": "NZD"
+      },
+      "tax": {
+        "amount": 13.69,
+        "currency": "NZD"
+      },
+      "grossPrice": {
+        "amount": 105.0,
+        "currency": "NZD"
+      }
+    }
+  },
+  "payments": [{
+    "creditCard": {
+      "cardType": "Visa",
+      "maskedCardNumber": "vault:v1:MUFqTOdaI6DGEC+ROl5f825SnF3aHrT/WhhmijgwaGANeVAa8Ss6uTzO19q9M/PGJRtc7WxawYyv2SH5mQop+kDy8oTbWEYsosVorZcdBlpxZpWQZRAz2RWFpUdq76IpdWv/xi9n2Lv+14/nRzzarkziBg2OZZymv/SSjlltJr6kL5Tx5Vyptb/SksJinnPKycSXTeEOKoE25czJitnVramN4NVWbYqZsap7/6ZrjGEr+BhZconmUPuGXLbZDOHaXzFA54gmLcV7L9yej704NjKAtfluSdcPULbrYXbve606Vtq1uUBPADPj01DViloTJ3ovj+8AZxlWe4nStDVGyPrmDPJb0Ret0uujd8DDlCL1L48EjMbvnT3n+79cC15E4QPiNmupnOpUFdeXH5A1hfhDCNY63fdM+9rjxDOhmIC6UognEEbVLKbJAy2ewGZ8QAAdSCdgEUZ+R9V4mlzRDYBqlPeFMzuYe44nz5GAe1MZYMr/zDsR+GUNB1l7dOQVDrmSu//YWYfICvsCzat6oa7fQjuJUwyxi0iobGzrieLy1jQya+wYPCMr4kBJSTSowCyARMeG0RtV9vFyH3nEfNJY2XvkNBbPTYS/cunOwWiJPfzf6DxhUpOXuZfUttkKjs4siTurulHDeL9bl8id1uZTW5nYWsuW3ubaWALauLo=",
+      "cardHolderName": "vault:v1:eKHjxsnC4qkU1VYJq1Hm2Mliwgv5zxaK0El0qy/xzAxWhkvZQ8yCx2o7sJ9nc7dmVRZboxekwznTy5EN91CGJukng6+yr2W5+UuIC3Obn8lw4m3mb+saT+wsWN5+UKNQy+1j3UBDxe0PDOi9+goox/Wjkh07bKVsM1GMqR238LNf+3Lo9DFrXdPCRK83cm0duLShtGtbUti1SeQrWJl5AFjRNX1iiLny39YHCsJ6rnc/PIbeVZXmlyWdGH4ZCJPinLBw3DOQ2lHGc/y2hrxUmtGWhb6+i2VgwS+3wUiGctODP04/wAZ4vhd8IBgeKLYfgIVJldn5vfFA6f+ebj7F67o3u2broFLlg0qd3bRljqlrFQSYQxDEL7aqWbriXpmkX8pr2eVaktmvyxny+6oqOMc8dTRvGbKQ2flWc4vO65o/4tNVug/F7lHr2nlTCwRLZ5IMtneiuahsU3Rzw2msMp9XeEjCky+pIQPY3i9xBKQgw76m4Pcy25Try92Ew/q8TiSuBS2DXYPC9KnipZrvUPCfjJ0QytdsSXIC/nTdtDlNyLVaD+XNvLqBcQlj4eaWpqyPsmvsImT4N1qtDODOGfK4CKf2PAEE18eNoVI9vASqL0xlgzWHmz57gCKZIWSEMthwwPF6kynkURh1QtSznmOW10nKGbYiN7/yXMg4GhY=",
+      "expiryMonth": "vault:v1:dOZbGfrP7QO4jgctt+9ObmWVqOnv6f/fMZcIr1Zv5EwZpEMRt1ppu7quAwCg6PdUnbMPcwn7KUo6YypLdDO3NEQTwT+gUwg2Y5sOGAgJiixodjxcjV0+FGVA6nNEZ09RECtHY1Dwceb6iVNbjwroim0Yk/G2BOZQ4XXygf/YB8DqITUFDteTuEBI4o0m+5JHpD9N36BJgnzK1ZExEHf5aQ0TjSg2QD2ZIY0ixoVGnBQFrRMKI+SjKhwoZ2xG+w1wtq3p1/JM6xT2N4fJj4hD2FCtLSIErnH4/Z/3H+cVwlEpKvqoqF5wAWFIamYSPozmrk5YD5l4mhza7Sq29ehP0XshLR2+2uYErCYpCrLacP3aNbkce0h1OS/kWHrp1w4pmvFNW6amXhPNvkKPGvHqsxg5A4OXUFNjQeVQnRwyn+C0HnDcZm9WWajIYsquwrb37XYO3ps2MPFjrm1IkVuF4J4ax/8T7lnrh1xQhR+l0ycTDE+GCC9rBesAswfqeDYOQYs8Ke4O7tu/Q8PbcE+2Ch5oh3C7/kIA1dcJRlMfcjzsn7UU53i5cNBF9k1n3j7x/Tbc9KKOucqbZMhNq5DAfpSpFkWliY+licbLqgMabq7ILKmrGBeyOlOYBGZrty2g33dsq3KIJeu2nCFivPw3LbvAu0vlQjeNIvhI+4Gzva4=",
+      "expiryYear": "vault:v1:lvrFtr1xJb55NRn3lDcoyKrHIzlZOXPYGjJy2lKyfAjxmqn9bHQoVLtraE/xCv9X5xTPNslR9LrwoEQBaEmzp85jf0dNQ/l05MnRrrwgk6015O0yZd/JwBI4JJGVFxaQRncD6QjjivXnAQ9uBkIOY4bOPk7BdfRryNIjXVlx2RoPDfdFhP3UXQs57u6poRvKVLEng/ZvCn62ScSrg0K86JBTokRstJkhj8FJrZR7Z1Obstvo29fZbF7Q+dC4lawHfOX3ePh3cihII2Yr4ZXvEB73weV13UTB//fjtkGOPJncSm4yPGm54ZB3mblNCdsy5Y65px5ZMBeoSKxFojD0/6etYSz81JDU6HkfkWZUxbO2kbZQ7Z7D4jZrXIE7ZHTwfJobEJUfuBiuvQpmo+/QCILziDawAJXV7wcedzdR5JKUDczdVCTAcQhigrTvWtzn7bw4sjN811numLDMGN/wN2o4iiaMH9cEtLyoXscCKjFgSMKoQbrFbFdQ0t4Pd/Llh5l+JRek+3Sggl9RabXHI/zoDFtF79oUe7151pQfm6Do0d/4V7+ymZAQ1sydR5x2n0csBnpfdJGuo25xyWiuz2kOE2arQ2BKpS3Df7RupTdn0LUSSbKsRbn4j52OyxbDj62JqVTII/2W6dxgxa/H3glYDv3b1daFquX3WpUXXns=",
+      "amount": {
+        "amount": 105.0,
+        "currency": "NZD"
+      },
+      "processorIdentifer": "WINDCAVE",
+      "transactionIdentifer": "0000000159d1cc82",
+      "authorisationCode": "vault:v1:j66DTh6+Cc0e9pnQK8ok/nmTfUEEu77wXXjxpk4G5oKWCcYu/NN78K4qDa4f1US44Mpw2R/g0xco02hjvpKEeFGbZ1FF/zx8Uxdic7sMS2JpLo3CM3hTLK+5EmIBg6+SLtoJJ/ouv0kCliGOGA+wYa3OSOkd5mY8K+R9Lhuf3j6quOLpnvTu28nSmAYAx/0pdLT7FjEmxpqJmvCdt2hpHVicOByGXwFos4jmGlyLmqq0xa+OY9hlifszZE7TLgHMrXhH4qLLkLZ247WvkkWLGMMMZDlYZ0p78t28IYdm1tI0aX4ProPkAZzjX2h6o/jMAHUURneDabKFzGa+/0p1ST5L3f3quzZcVE2ua9BZDf87slO6KVfsQIv6RmpV9y8wXajcA3rEsxEzF6KKymN8tUTOvfPwwUfAhoD7xCzSH2fhgB84rJacuflwEUmllNJkKILA/fKqQUprx3koH5aldcks82iUsTdn90PKU1U5Wiym5xbBjgx3amQtVn4RCFPT+1DXocyO1SwKrbcGdcAEu3DYRnF2Tg1Mlmg5bTDUDEpElBWeIJl9JPorKqHw9T9x59EcNGlNcW5Rnb1Prj62Y5MJMAXvcUWgvqwZJDiY6TK/mdMMDWM4EnjoexzKrQGQwTDV+bgOp4No3jSWqenmP/41Vh8L8F+7TyOMop0OVwo=",
+      "responseText": "00 APPROVED",
+      "sessionIdentifier": "00000101574452800112534d7320f287",
+      "liabilityIndicator": "3ds2challenge"
+    }
+  }
+  ],
+  "release": [{
+    "releaseIdentifier": "23032707333146TWM1",
+    "brand": "TWL",
+    "deliveryMethod": "ShipToAddress",
+    "shipfromLocationIdentifier": "MarketPlace_Virtual",
+    "fulfillmentPromise": "standard",
+    "createdBy": "vault:v1:XRORgrpCBMKAqF2uus9aG8/gLpV1hiUfaQbDeYsnx1nDQ76n2DQd3pJR3RAD3V+cFN9qhJi4XHFC4EwvCvnGSwHb152SUNFOVMG7Dy4Iu3cwIYZI53/jBhqQnTaz8rkOLXktXKM2u1Kt+AFAkhp+WCXoCZ6qDIXyKYfNUioXlz+2Ig3kEo31fTAL5MxGIqOp+t7Cl6SE2NTacLWyXqSZpDY64lLoyqAvO4oMxxT0NP2f53AM0P65Yxm4smTdwWbHVuS4QrikL0TQ9It+4SZXent7tNmRvgysYJZjz+FV8V60EteJJ0L9Tf1kGijZNGEr+zdwWF9vlyZhF5kbAiRP30eMaOYoMywhCnNvla/UHBkd61yCQlwD0KfI5AvE5X06YY6/azfMPiD+NRqElhw4rb8bNpRNVO0x/y5+GbgFNkkvUTCvwpZixFoHxgxUMXCevWKFLZOmHcy+ilZhzWzDEx/NitGCQFh19Z88Ex3Cj/MXtZ0lIDb8pzADtlkK++zC4j8vHqhvUMNNasv8GLkNJKdWu9Xn/fCMgs1wPp90OdFpX3nPMFwtLev7D080yunuMfmKuGrL4BziXZu2qBHKXtH4dEV8KwacYwKAy7lvEiQUuPBGxJAfen8055FsE6CidrkxejeV/MdPaE2l0Q/PVQffh3LRwssffVVsdjMfzI8=",
+    "createdTimestamp": "2023-03-27T01:47:33.0Z",
+    "updatedBy": "vault:v1:pCgBKCdSDQpX5HNnrSffc0dQpOaUGprqJHo+NWZQzzzIuDaXyBHRJkLePBBtIOmSQpH3bOTDi8NCwu0JEQZLd+D8DAQCFSHzHOv0pwcWc4Y2C2lbi4T0NjYubuma5HzN36J9Ac8D8jgWCBJpQ4RJZuqIFcv42QmaRwTE5SICgYTm2N3OWTErx0SSufwZQBZdcBg83ZVUQAP2E2SvI37tU2HzX4FDMrXnD97GjUB7DWOv1Geo9PuuthJFZPcxzM9qhnZM5cQl52377DW0gVgp26hgyEcypVao5AML+QuiZq4TEG0CFvrMFdnB2d44JdJqzOkAm5/Jv5Q4F/PJ8WHx7wsNWrxfJlaa7FC8j1jL4tS5aeQ4KDUR4WCcbmgfiQPNKGupymor/rpJz9o78aJeqANHBGFP3CmUvzo71yrth0irTd/N+X1NeT9Q7rm6QIVv1kZuSZqEzukEFyDxsSJTZ/+qbNHVyomQ9QFOAu2fE8EzUaNN77hIabYs/d5sb6DZBjG/eH8EU0DWwp4oO1qxJSiD0P4OZaUeZM1uG7LSL0eUc0yUwrFNL6zXQ5IeYcRBCTp+TFjU3W5Tu1Aprm7SlRie0rJVqeXesI1PFMy8hpIFGEFcbh68pnMAKfpb7YPn820/vomEigWdgdP1f2Xzf29zV4VFxD3GKbxlCkUGHls=",
+    "updatedTimestamp": "2023-03-27T01:47:33.0Z",
+    "lines": [{
+      "allocationIdentifier": "5653617314832623544362",
+      "quantity": 1.0,
+      "fulfilledQuantity": 1.0,
+      "cancelledQuantity": 0.0,
+      "itemIdentifiers": [{
+        "identifier": "14745287",
+        "producer": "THEMARKET"
+      }
+      ],
+      "releaseLineIdentifier": 1,
+      "orderLineNumber": 1,
+      "brand": "TWL",
+      "unitOfMeasure": "EA",
+      "createdBy": "mif@twg.com",
+      "createdDatetime": "2023-03-27T01:47:33.0Z",
+      "updatedBy": "mif@twg.com",
+      "updatedDatetime": "2023-03-27T20:21:06.0Z"
+    }
+    ]
+  }
+  ]
+}

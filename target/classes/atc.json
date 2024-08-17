@@ -1,0 +1,1306 @@
+{
+  "viewName" : "TWG_INVENTORY_VIEW",
+  "networkView" : true,
+  "transactionDateTime" : "2023-04-13T00:10:42.000%OFFSET%",
+  "availableToCommerceRecords" : [ {
+    "itemIdentifiers" : [ {
+      "identifier" : "426593",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "1108634",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 992.0,
+    "stockOnHand" : 992.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 992.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "594525",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 18.0,
+    "stockOnHand" : 18.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 18.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "799357",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1000.0,
+    "stockOnHand" : 1000.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 1000.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "183922",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 5.0,
+    "stockOnHand" : 5.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 5.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "1109366",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "446088",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "418733",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 189.0,
+    "stockOnHand" : 189.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 92.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 97.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "51000",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 986.0,
+    "stockOnHand" : 986.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 986.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539986",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "1002000",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 971.0,
+    "stockOnHand" : 971.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 971.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539946",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "1541082",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1279.0,
+    "stockOnHand" : 1279.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 1279.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6640387",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 617.0,
+    "stockOnHand" : 617.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 617.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "1771951",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 958.0,
+    "stockOnHand" : 958.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 958.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "417846",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "426205",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2434565",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 994.0,
+    "stockOnHand" : 994.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 994.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "546768979865432",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2500.0,
+    "stockOnHand" : 2500.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 2500.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "421672",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 7.0,
+    "stockOnHand" : 7.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 7.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "444048",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2788733",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 989.0,
+    "stockOnHand" : 989.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 989.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "804884",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 88.0,
+    "stockOnHand" : 88.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 88.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "50000",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 898.0,
+    "stockOnHand" : 898.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 898.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2605852",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 5977.0,
+    "stockOnHand" : 5977.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 1983.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 3994.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2441000",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 3641.0,
+    "stockOnHand" : 3641.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 3641.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "956433268876",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2500.0,
+    "stockOnHand" : 2500.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 2500.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "435181",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2.0,
+    "stockOnHand" : 2.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 2.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539976",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "434450",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "495278",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 998.0,
+    "stockOnHand" : 998.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 998.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "455018",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 12.0,
+    "stockOnHand" : 12.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 12.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539936",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "289376",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1477.0,
+    "stockOnHand" : 1477.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 997.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 480.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "435408",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 92.0,
+    "stockOnHand" : 92.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 92.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "426291",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1811.0,
+    "stockOnHand" : 1811.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 1563.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 248.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "445374",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "418905",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "4357876896564321",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2500.0,
+    "stockOnHand" : 2500.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 2500.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2748283",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 921.0,
+    "stockOnHand" : 921.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 921.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "54353466",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2500.0,
+    "stockOnHand" : 2500.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 2500.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "417541",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 122.0,
+    "stockOnHand" : 122.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 122.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539926",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "435093",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 82.0,
+    "stockOnHand" : 82.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 82.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "419241",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 54.0,
+    "stockOnHand" : 54.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 54.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539966",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "432247",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 51.0,
+    "stockOnHand" : 51.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 51.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "454551",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 500.0,
+    "stockOnHand" : 500.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 500.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "499461",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2665000",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2.0,
+    "stockOnHand" : 2.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 2.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6519642",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2542615",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 26.0,
+    "stockOnHand" : 26.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 26.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "462758",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 29.0,
+    "stockOnHand" : 29.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 29.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "110158580",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 3984.0,
+    "stockOnHand" : 3984.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 3984.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "418917",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 12.0,
+    "stockOnHand" : 12.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 12.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "444234",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "804701",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 81.0,
+    "stockOnHand" : 81.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 81.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "8976454",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 340.0,
+    "stockOnHand" : 340.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 340.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539916",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "423468",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 67.0,
+    "stockOnHand" : 67.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 67.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "420635",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1.0,
+    "stockOnHand" : 1.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 1.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "423503",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 2.0,
+    "stockOnHand" : 2.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 0.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 2.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "666666",
+      "producer" : "THEMARKET"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 1248.0,
+    "stockOnHand" : 1248.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Suppliers",
+      "quantity" : 385.0
+    }, {
+      "group" : "DistributionCenters",
+      "quantity" : 863.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "2420189",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "AVAILABLE",
+    "totalQuantity" : 3488.0,
+    "stockOnHand" : 3488.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "DistributionCenters",
+      "quantity" : 1322.0
+    }, {
+      "group" : "Stores",
+      "quantity" : 2166.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539995",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539996",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "419575",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : 0.0,
+    "totalFuturePreorderQuantity" : 0.0,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "locationTypeQuantities" : [ {
+      "group" : "Stores",
+      "quantity" : 0.0
+    } ],
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  }, {
+    "itemIdentifiers" : [ {
+      "identifier" : "6539956",
+      "producer" : "MDM"
+    } ],
+    "itemAvailabilityStatus" : "OUT_OF_STOCK",
+    "totalQuantity" : 0.0,
+    "stockOnHand" : null,
+    "totalFuturePreorderQuantity" : null,
+    "firstFuturePreorderAvailableQuantity" : 0,
+    "networkProtectionQuantities" : [ {
+      "type" : "item",
+      "quantity" : 0
+    } ],
+    "perpetualAvailability" : false
+  } ]
+}

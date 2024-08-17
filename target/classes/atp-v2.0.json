@@ -1,0 +1,170 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AvailableToCommerce",
+  "description": "Available To Promise SDEM",
+  "additionalProperties": true,
+  "properties": {
+    "itemIdentifiers": {
+      "type": "array",
+      "items": {
+        "description": "The unique item identifier as provided by the producing system",
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "identifier": {
+            "description": "The value for the identifier",
+            "example": "0010K00001qpuMmQAI",
+            "type": "string",
+            "pattern": "^.*$"
+          },
+          "producer": {
+            "description": "List of all the potential producers",
+            "enum": [
+              "COUPA",
+              "ENFINITY",
+              "GBS",
+              "GEP",
+              "LPA",
+              "MDM",
+              "OCT",
+              "OFI",
+              "ORACLE_EBS",
+              "PAYGLOBAL",
+              "PPP",
+              "PRISM",
+              "SFSC",
+              "STOREORDER",
+              "TUI",
+              "THEMARKET",
+              "WMS",
+              "ORI",
+              "ERP",
+              "HCM",
+              "EPM",
+              "MAO"
+            ]
+          }
+        }
+      }
+    },
+    "identifier": {
+      "description": "This is a source system generated identifier for the particular Purchase Order.",
+      "example": "28686701",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "purchaseOrderStatus": {
+      "description": "The order status will be used to determine if the inventory can be promised for selling. ",
+      "example": "Closed",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "transactionTimestamp": {
+      "description": "Date and time when the particular change is published for the available to promise.",
+      "type": "string",
+      "format": "date-time",
+      "example": "2018-11-13T20:20:39+00:00"
+    },
+    "earliestShipmentArrivalTimestamp": {
+      "description": "Earliest date and time when the shipment is expected.",
+      "type": "string",
+      "format": "date-time",
+      "example": "2018-11-13T20:20:39+00:00"
+    },
+    "latestShipmentArrivalTimestamp": {
+      "description": "Latest date and time when the shipment is expected.",
+      "type": "string",
+      "format": "date-time",
+      "example": "2018-11-13T20:20:39+00:00"
+    },
+    "purchaseOrderLines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "lineIdentifier": {
+            "description": "The position of a line item within a purchase order.",
+            "example": "291",
+            "type": "string",
+            "pattern": "^.*$"
+          },
+          "itemIdentifiers": {
+            "type": "array",
+            "items": {
+              "description": "The unique item identifier as provided by the producing system",
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "identifier": {
+                  "description": "The value for the identifier",
+                  "example": "0010K00001qpuMmQAI",
+                  "type": "string",
+                  "pattern": "^.*$"
+                },
+                "producer": {
+                  "description": "List of all the potential producers",
+                  "enum": [
+                    "COUPA",
+                    "ENFINITY",
+                    "GBS",
+                    "GEP",
+                    "LPA",
+                    "MDM",
+                    "OCT",
+                    "OFI",
+                    "ORACLE_EBS",
+                    "PAYGLOBAL",
+                    "PPP",
+                    "PRISM",
+                    "SFSC",
+                    "STOREORDER",
+                    "TUI",
+                    "THEMARKET",
+                    "WMS",
+                    "ORI",
+                    "ERP",
+                    "HCM",
+                    "EPM",
+                    "MAO"
+                  ]
+                }
+              }
+            }
+          },
+          "availableToPromiseTimestamp": {
+            "description": "The date and time on which the distribution centre sends to the branch(es) (if Click & Collect is offered) or the end customer who have purchased online for delivery",
+            "type": "string",
+            "format": "date-time",
+            "example": "2018-11-13T20:20:39+00:00"
+          },
+          "totalQuantity": {
+            "type": "integer",
+            "description": "Line total preordered quantity for the preordered item.",
+            "example": 5000
+          },
+          "preorderDetails": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "properties": {
+                "preorderQuantity": {
+                  "description": "Preorder quantity of the item for a specific location.",
+                  "example": 122,
+                  "type": "number"
+                },
+                "locationIdentifier": {
+                  "description": "This is to identify the location where products from the purchase order will be delivered to.",
+                  "example": "1172",
+                  "type": "string",
+                  "pattern": "^.*$"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "earliestShipmentArrivalTimestamp": "2023-06-05T00:00:00",
+  "identifier": "260724591",
+  "latestShipmentArrivalTimestamp": "2023-06-11T00:00:00",
+  "purchaseOrderLines": [{
+    "availableToPromiseTimestamp": "2023-06-11T00:01:00",
+    "itemIdentifiers": [{
+      "identifier": "493530",
+      "producer": "MDM"
+    }
+    ],
+    "lineIdentifier": "1",
+    "preorderDetails": [{
+      "locationIdentifier": "1123",
+      "preorderQuantity": 120
+    }
+    ],
+    "totalQuantity": 120
+  }
+  ],
+  "purchaseOrderStatus": "OPEN",
+  "transactionTimestamp": "2023-04-06T11:01:16"
+}

@@ -1,0 +1,59 @@
+{
+  "identifier": "69083282888",
+  "orderDateTime": "2023-08-01T12:38:00.000+12:00",
+  "orderSource": "STOREORDER",
+  "invoiceNumber": "566X00145",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "returnOrderSource": "STOREORDER",
+  "orderEvent": {
+    "eventType": "Refund",
+    "eventDateTime": "2023-08-01T12:38:00.000+12:00"
+  },
+  "payments": [{
+    "pointOfSale": {
+      "storeIdentifier": "vault:v2:bnGp7tHzg3oOwHCEYpDm7vCoWnoLabcfmUQS1oB1blw="
+    }
+  }
+  ],
+  "lines": [{
+    "itemIdentifiers": [{
+      "identifier": "422755",
+      "producer": "MDM"
+    }
+    ],
+    "returnStoreLocationIdentifier": "1566",
+    "itemName": "WHITTAKERS PEANUT SLAB 50G",
+    "description": "WHITTAKERS PEANUT SLAB 50G",
+    "number": 1,
+    "channelType": "1P",
+    "quantity": 3,
+    "unitOfMeasure": "EA",
+    "netPrice": {
+      "amount": -2.61,
+      "currency": "NZD"
+    },
+    "grossPrice": {
+      "amount": -3.0,
+      "currency": "NZD"
+    },
+    "basePrice": {
+      "amount": 1.0,
+      "currency": "NZD"
+    },
+    "taxRate": 0.15,
+    "taxAmount": {
+      "amount": -0.39,
+      "currency": "NZD"
+    },
+    "gift": false,
+    "globalTradeItemNumber": "94314212",
+    "priceAdjustments": [],
+    "returnReceipt": false,
+    "pointOfSaleRefundedQuantity": 3.0,
+    "pointOfSaleTotalRefundedQuantity": 3.0
+  }
+  ]
+}

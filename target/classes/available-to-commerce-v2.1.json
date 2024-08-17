@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AvailableToCommerce",
+  "description": "Available To Commerce SDEM",
+  "additionalProperties": true,
+  "properties": {
+    "viewName": {
+      "description": "The available to commerce view name for the inventory feed. There could be different views configured for first party, third party items at network or location level.",
+      "example": "TWG_NETWORK",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "networkView": {
+      "type": "boolean",
+      "description": "Identifies if the availability is at the network level.",
+      "example": false
+    },
+    "transactionDateTime": {
+      "description": "The date and time of server when the availability response was generated",
+      "type": "string",
+      "format": "date-time",
+      "example": "2018-11-13T20:20:39+00:00"
+    },
+    "locationIdentifier": {
+      "description": "Unique location for which the item availability is required.",
+      "example": "212",
+      "type": "string",
+      "pattern": "^.*$"
+    },
+    "availableToCommerceRecords": {
+      "type": "array",
+      "description": "List of Available to Commerce records, where one record is for one item total quantity by location group type",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "itemIdentifiers": {
+            "type": "array",
+            "items": {
+              "description": "The unique item identifier as provided by the producing system",
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "identifier": {
+                  "description": "The value for the identifier",
+                  "example": "0010K00001qpuMmQAI",
+                  "type": "string",
+                  "pattern": "^.*$"
+                },
+                "producer": {
+                  "description": "List of all the potential producers",
+                  "enum": [
+                    "COUPA",
+                    "ENFINITY",
+                    "GBS",
+                    "GEP",
+                    "LPA",
+                    "MDM",
+                    "OCT",
+                    "OFI",
+                    "ORACLE_EBS",
+                    "PAYGLOBAL",
+                    "PPP",
+                    "PRISM",
+                    "SFSC",
+                    "STOREORDER",
+                    "TUI",
+                    "THEMARKET",
+                    "WMS",
+                    "ORI",
+                    "ERP",
+                    "HCM",
+                    "EPM",
+                    "MAO"
+                  ]
+                }
+              }
+            }
+          },
+          "itemAvailabilityStatus": {
+            "description": "The status of the stock availability level of the stock item",
+            "enum": [
+              "OUT_OF_STOCK",
+              "LIMITED_STOCK",
+              "AVAILABLE"
+            ]
+          },
+          "nextAvailabilityDateTime": {
+            "description": "This is the date and time for the next stock item availability date",
+            "type": "string",
+            "format": "date-time",
+            "example": "2018-11-13T20:20:39+00:00"
+          },
+          "totalQuantity": {
+            "type": "integer",
+            "description": "Total available quantity for the given stock item from all participating locations in the network",
+            "example": 1000
+          },
+          "stockOnHand": {
+            "type": "integer",
+            "description": "Total available to commerce stock on hand quantity for the item.",
+            "example": 800
+          },
+          "totalFuturePreorderQuantity": {
+            "type": "integer",
+            "description": "Sum of all the future preorder quantities of an item that will available to commerce.",
+            "example": 200
+          },
+          "firstFuturePreorderAvailableQuantity": {
+            "type": "integer",
+            "description": "First preorder quantity for an item that will be available for commerce. X quantity will be available out of 'Total Future Preorder Quantity' ",
+            "example": 50
+          },
+          "locationTypeQuantities": {
+            "type": "array",
+            "description": "Breakdown of the stock item total quantity by location group type",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "properties": {
+                "group": {
+                  "description": "The group of locations where the stock is held.",
+                  "example": "DistributionCenters",
+                  "type": "string",
+                  "pattern": "^.*$"
+                },
+                "quantity": {
+                  "type": "integer",
+                  "description": "The total quantity of the stock item at the location group defined by the Location Group",
+                  "example": 100
+                }
+              }
+            }
+          },
+          "networkProtectionQuantities": {
+            "type": "array",
+            "description": "Breakup of the stock item quantities by network protection type. Network protection allows the retailer to reserve a certain amount of stock item inventory at a network level",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "properties": {
+                "type": {
+                  "description": "The name of the Protection Type that is used to reserve this stock item",
+                  "example": "Item",
+                  "type": "string",
+                  "pattern": "^.*$"
+                },
+                "quantity": {
+                  "type": "integer",
+                  "description": "Quantity of the stock item reserved in this Protection",
+                  "example": 15
+                }
+              }
+            }
+          },
+          "perpetualAvailability": {
+            "type": "boolean",
+            "description": "Is this stock item configured to have perpetual supply",
+            "example": true
+          }
+        }
+      }
+    }
+  }
+}

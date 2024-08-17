@@ -1,0 +1,23 @@
+{
+  "identifier": 19774758,
+  "orderReleaseIdentifier": "WMSIT3875-0000-0000-0000-000000000000",
+  "lines": [
+    {
+      "eventType": "Short",
+      "itemIdentifiers": [
+        {
+          "identifier": 429479,
+          "producer": "MDM"
+        }
+      ],
+      "quantity": 1,
+      "orderLineNumber": 38751,
+      "shortReason": "Not enough stock",
+      "unitOfMeasure": "EA",
+      "brand": "TWL",
+      "fulfillmentDetail": {
+        "eventDateTime": "2023-03-10T01:27:00+13:00"
+      }
+    }
+  ]
+}

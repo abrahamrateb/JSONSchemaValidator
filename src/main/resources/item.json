@@ -1,0 +1,149 @@
+{
+  "IsScanOnly": false,
+  "DimensionUOM": "mm",
+  "ItemCode": [
+    {
+      "CodeTypeId": {
+        "CodeTypeId": "EAN"
+      },
+      "Value": "9401063670482"
+    }
+  ],
+  "Description": "Active Intent Women's Straight Leg Pants",
+  "IsRecalled": false,
+  "Size": [
+    "3XL"
+  ],
+  "BaseUOM": "EA",
+  "Extended": {
+    "Producer": "MDM",
+    "TypeIdentifier": "VariantItem",
+    "PreOrderAvailable": null,
+    "ChannelType": "1P",
+    "3PReturnable": null,
+    "TWLCompanyCode": "TWL",
+    "WSLCompanyCode": "WSL",
+    "TWLCCCode": "O",
+    "WSLCCCode": null,
+    "TWLMaxDeliveryDays": null,
+    "WSLMaxDeliveryDays": null,
+    "TWLMinDeliveryDays": null,
+    "WSLMinDeliveryDays": null,
+    "TWLDefDeliverySize": "ST",
+    "WSLDefDeliverySize": null,
+    "TWLWebEffectiveDate": "2020-08-19T00:00:00+12:00",
+    "WSLWebEffectiveDate": "2020-08-19T00:00:00+12:00",
+    "TWLWebExpiryDate": null,
+    "WSLWebExpiryDate": "2020-08-19T00:00:00+12:00",
+    "Inventoried": true,
+    "TWLSoldOnline": true,
+    "WSLSoldOnline": false,
+    "NLGSoldOnline": false,
+    "L1Id": "PPH_L1_105193",
+    "L1Name": "Head to Toe",
+    "L2Id": "PPH_L2_105222",
+    "L2Name": "Apparel",
+    "L3Id": "PPH_L3_105497",
+    "L3Name": "Activewear",
+    "L4Id": "PPH_L4_105979",
+    "L4Name": "Womens Active Bottoms",
+    "PackagingFormat": "H"
+  },
+  "ItemId": "266198",
+  "ShortDescription": "WPAN AI C/E YOGA PANT BLK 3XL",
+  "SeasonYear": "",
+  "HandlingAttributes": {
+    "HazmatCode": "",
+    "IsAirShippingAllowed": true,
+    "IsHazmat": false,
+    "IsParcelShippingAllowed": true
+  },
+  "ManufacturingAttribute": [
+    {
+      "Upc": "9401063670482",
+      "CountryofOrigin": null
+    }
+  ],
+  "Height": 256,
+  "StoreDepartment": "Activewear",
+  "Season": "All Seasons",
+  "Width": 224,
+  "WeightUOM": "KG",
+  "VolumetricWeight": 0.4588,
+  "SmallImageURI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/small",
+  "Color": "Black",
+  "ItemTranslation": {
+    "DepartmentName": "Activewear",
+    "DepartmentNumber": "PPH_L3_105497"
+  },
+  "Media": [
+    {
+      "MediaId": "small",
+      "MediaSizeId": "1",
+      "Sequence": 1,
+      "URI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/small",
+      "MimeTypeId": ".jpeg"
+    },
+    {
+      "MediaId": "large",
+      "MediaSizeId": "1",
+      "Sequence": 2,
+      "URI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/large",
+      "MimeTypeId": ".jpeg"
+    },
+    {
+      "MediaId": "thumbnail",
+      "MediaSizeId": "1",
+      "Sequence": 4,
+      "URI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/thumbnail",
+      "MimeTypeId": ".jpeg"
+    },
+    {
+      "MediaId": "enlarged",
+      "MediaSizeId": "1",
+      "Sequence": 3,
+      "URI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/enlarged",
+      "MimeTypeId": ".jpeg"
+    }
+  ],
+  "WebURL": "http://thewarehouse.co.nz/p/R266198.html",
+  "IsGiftCard": "",
+  "Weight": 0.4103,
+  "VolumeUOM": "m3",
+  "VolumetricWeightUOM": "m3",
+  "Brand": "ACTINT",
+  "IsDiscontinued": false,
+  "SellingAttributes": {
+    "DigitalGoods": false,
+    "IsDiscountable": true,
+    "IsExchangeable": true,
+    "IsPriceOverrideable": true,
+    "IsReturnableAtDC": true,
+    "IsReturnableAtStore": true,
+    "IsTaxExemptable": null,
+    "IsTaxable": null,
+    "PickUpInStore": true,
+    "ShipToAddress": true,
+    "ShipToStore": true,
+    "SoldInStores": true,
+    "SoldOnline": true,
+    "IsTaxOverrideable": false
+  },
+  "Length": 40,
+  "Volume": 0.0023,
+  "LargeImageURI": "https://twg.azure-api.net/twlProductImage/productImage/9401063670482/format/jpeg/size/large",
+  "ItemAttribute": [
+    {
+      "Type": "InventoryType",
+      "Value": "RET"
+    },
+    {
+      "Type": "Hierarchy",
+      "Value": "PRIMARY"
+    },
+    {
+      "Type": "HierarchyCode",
+      "Value": "PPH_L4_105979"
+    }
+  ]
+}

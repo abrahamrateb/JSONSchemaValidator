@@ -1,0 +1,311 @@
+{
+
+  "identifier": "69506442254",
+
+  "orderSource": "STOREORDER",
+
+  "payments": [
+
+    {
+
+      "pointOfSale": {
+
+        "storeIdentifier": "3300",
+
+        "employeeCode": "111116",
+
+        "tillIdentifier": "30019"
+
+      }
+
+    }
+
+  ],
+
+  "lines": [
+
+    {
+
+      "primaryGtin": "94314212",
+
+      "basePrice": {
+
+        "amount": 2,
+
+        "currency": "NZD"
+
+      },
+
+      "channelType": "1P",
+
+      "netPrice": {
+
+        "amount": 5.22,
+
+        "currency": "NZD"
+
+      },
+
+      "taxRate": 0.15,
+
+      "selfPick": false,
+
+      "description": "Whittaker's Original Peanut Slab Single 50g",
+
+      "grossPrice": {
+
+        "amount": 6,
+
+        "currency": "NZD"
+
+      },
+
+      "isGift": false,
+
+      "itemIdentifiers": [
+
+        {
+
+          "identifier": "422755",
+
+          "producer": "MDM"
+
+        }
+
+      ],
+
+      "quantity": 3,
+
+      "taxAmount": {
+
+        "amount": 0.78,
+
+        "currency": "NZD"
+
+      },
+
+      "number": 1,
+
+      "unitOfMeasure": "EA",
+
+      "shipment": {
+
+        "method": "standardDeliveryUrban",
+
+        "phoneNumber": {
+
+          "dialNumber": "+64 9 4898900"
+
+        },
+
+        "guest": true,
+
+        "address": {
+
+          "firstName": "Glaiza",
+
+          "countryCode": "NZ",
+
+          "cityName": "Auckland",
+
+          "addressLines": [
+
+            "26 The Warehouse Way",
+
+            "Northcote"
+
+          ],
+
+          "lastName": "Ronquillo",
+
+          "postalCode": "0627"
+
+        },
+
+        "type": "Delivery"
+
+      }
+
+    }
+
+  ],
+
+  "totals": {
+
+    "adjustedSaleItems": {
+
+      "tax": {
+
+        "amount": 0,
+
+        "currency": "NZD"
+
+      },
+
+      "netPrice": {
+
+        "amount": 0,
+
+        "currency": "NZD"
+
+      },
+
+      "grossPrice": {
+
+        "amount": 0,
+
+        "currency": "NZD"
+
+      }
+
+    },
+
+    "saleItems": {
+
+      "total": {
+
+        "tax": {
+
+          "amount": 1.69,
+
+          "currency": "NZD"
+
+        },
+
+        "netPrice": {
+
+          "amount": 11.31,
+
+          "currency": "NZD"
+
+        },
+
+        "grossPrice": {
+
+          "amount": 13,
+
+          "currency": "NZD"
+
+        }
+
+      }
+
+    },
+
+    "orderTotal": {
+
+      "tax": {
+
+        "amount": 2.6,
+
+        "currency": "NZD"
+
+      },
+
+      "netPrice": {
+
+        "amount": 17.4,
+
+        "currency": "NZD"
+
+      },
+
+      "grossPrice": {
+
+        "amount": 20,
+
+        "currency": "NZD"
+
+      }
+
+    },
+
+    "shipping": {
+
+      "tax": {
+
+        "amount": 0.91,
+
+        "currency": "NZD"
+
+      },
+
+      "netPrice": {
+
+        "amount": 6.09,
+
+        "currency": "NZD"
+
+      },
+
+      "grossPrice": {
+
+        "amount": 7,
+
+        "currency": "NZD"
+
+      }
+
+    }
+
+  },
+
+  "customer": {
+
+    "emailAddress": "Glaiza.Ronquillo@thewarehouse.co.nz",
+
+    "location": {
+
+      "address": {
+
+        "firstName": "Glaiza",
+
+        "countryCode": "NZ",
+
+        "addressLines": [],
+
+        "lastName": "Ronquillo"
+
+      }
+
+    },
+
+    "guest": true,
+
+    "name": "Glaiza Ronquillo"
+
+  },
+
+  "businessToBusinessOrder": false,
+
+  "taxIncluded": true,
+
+  "customerLocale": "en_NZ",
+
+  "orderEvent": {
+
+    "eventDateTime": "2023-09-19T07:13:46.000+12:00",
+
+    "eventType": "Create"
+
+  },
+
+  "currency": "NZD",
+
+  "notifications": {
+
+    "sms": false,
+
+    "email": true,
+
+    "push": false
+
+  },
+
+  "orderDateTime": "2023-09-19T07:13:46.000+12:00",
+
+  "brand": "WSL",
+
+  "invoiceNumber": "3001900300"
+
+}

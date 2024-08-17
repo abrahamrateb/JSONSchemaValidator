@@ -1,0 +1,273 @@
+{
+  "identifier": "NaWIS041",
+  "alternateIdentifier": "NaWIS041",
+  "status": "FULFILLED",
+  "orderDatetime": "2023-05-07T21:47:37.759",
+  "currency": "NZD",
+  "customerLocale": "en_NZ",
+  "taxIncluded": true,
+  "brand": "TWL",
+  "orderToken": "25xPYDFIXUNBbw4HNJlk747690f5311a5d22339af81411877d56",
+  "notifications": {
+    "sms": false,
+    "email": false,
+    "push": false
+  },
+  "lineCount": 1,
+  "minimumFulfilmentStatus": "FULFILLED",
+  "maximumFulfilmentStatus": "FULFILLED",
+  "lastUpdated": "2023-05-07T21:54:18.801",
+  "returnLabelUrl": "https://twgld.omni.manh.com/docmanagement/api/documentmanagement/",
+  "changeIdentifier": "fb0c759d-7240-46a9-90b5-5e8780370145",
+  "customer": {
+    "guest": false,
+    "name": "vault:v2:yut/yXbLDgdFXMAEE3drQ5Ue8QppBWbe9d4b5VkDxWty4EIkQvyetg==",
+    "emailAddress": "vault:v2:LBNWu2WGYHEQF2+6bV6cuM2qeTlE4OHH9K5gUgNgWCK5YYYxOYe48GCWCZP36wM=",
+    "location": {
+      "address": {
+        "firstName": "vault:v2:BviUUqi91DL+BuNnQpMlHaoyMKdBsVbNpi8Vl9exMvZLug==",
+        "lastName": "vault:v2:/Az/SzVkVvMJlmt64VnEPNDCZ4rc76Fq7KsLZ5PiAB0=",
+        "addressLines": ["vault:v2:jBWfKRfjbgeBDSVN4AT6pLgzH1iggAkOA5N7r4uXtGn7U3uQcZFbfddtAZZhAecb"],
+        "cityName": "vault:v2:M2J3e0UlQiBZsjOmLM8I1Ex2/1y6xePpPsB++rdGAlvrSfbawg==",
+        "postalCode": "vault:v2:bEtH15jX+JL8hGhxF9RVJqVj4lRLwxqi7jNhHk5iOcY=",
+        "countryCode": "NZ"
+      }
+    },
+    "phoneNumber": {
+      "dialNumber": "vault:v2:4O7V61zYzmzSrV454MHrbxuA6khvofpLWH9qfljTZxkSOFxYkK8="
+    }
+  },
+  "lines": [{
+    "channelType": "1P",
+    "description": "BASIC COMP LINKED ITEM PARK 1",
+    "lineNumber": 1,
+    "quantity": 2.0,
+    "itemIdentifiers": [{
+      "identifier": "1541082",
+      "producer": "MDM"
+    }
+    ],
+    "itemName": "Young Original Basic Composite Linked Item Park 1",
+    "orderLineBreakDown": [{
+      "itemQuantity": 0.0,
+      "status": "OPEN",
+      "changeIdentifier": "867d07ca-40d1-48fa-9617-76f1d20443d7"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "ALLOCATED",
+      "changeIdentifier": "c1c9d1c0-c187-46aa-a180-ac981436b4e8"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "RELEASED",
+      "changeIdentifier": "a1039da3-569a-4992-96b5-36da04809fdf"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "IN_PROCESS",
+      "changeIdentifier": "cb73b689-eb6a-44c4-91fe-0f921b3fba5c"
+    }, {
+      "itemQuantity": 0.0,
+      "status": "PICKED",
+      "changeIdentifier": "a61d4b84-3f98-45fc-ac9a-6da77525233a"
+    }, {
+      "itemQuantity": 0.0,
+      "changeIdentifier": "5c5f8b56-0051-4a5b-bc13-3261fc7c2440"
+    }, {
+      "itemQuantity": 2.0,
+      "status": "FULFILLED",
+      "changeIdentifier": "5c5f8b56-0051-4a5b-bc13-3261fc7c2440"
+    }
+    ],
+    "unitOfMeasure": "EA",
+    "gift": false,
+    "image": {
+      "url": "https://twg.azure-api.net/twlProductImage/productImage/9401073984265/format/jpeg/size/small"
+    },
+    "itemColour": "PPL L",
+    "itemSize": "OS",
+    "return": false,
+    "cncPickupStoreIdentifier": "1119",
+    "createdDatetime": "2023-05-07T21:47:37.076",
+    "updatedDatetime": "2023-05-07T21:54:17.879",
+    "allocation": [{
+      "identifier": "372654002249769444540",
+      "createdTimestamp": "2023-05-07T21:47:38.071",
+      "createdBy": "vault:v2:Qgdjzd0CvyScIyFo5ydi/1r9u1B6TzrSyu3xMRB4qE2GY0dFqVniMaw=",
+      "updatedTimestamp": "2023-05-07T21:49:45.665",
+      "updatedBy": "vault:v2:BJyWAN+bq5XA68AIuM7MqJg3zcDVajRRAKJn8mym64hFhAQn72OW7bw=",
+      "allocatedTimestamp": "2023-05-07T21:47:38.071",
+      "brand": "TWL",
+      "quantity": 0.0,
+      "unitOfMeasure": "EA",
+      "shipToLocationIdentifier": "1119",
+      "shipFromLocationIdentifier": "1119",
+      "shipmentType": "Pickup",
+      "changeIdentifier": "5c5f8b56-0051-4a5b-bc13-3261fc7c2440"
+    }
+    ],
+    "fulfilment": [{
+      "fulfilmentIdentifier": "NaWIS0411",
+      "fulfilmentDetailIdentifier": "7711922683496093779",
+      "status": "FULFILLED",
+      "releaseIdentifier": "NaWIS0411",
+      "releaseLineIdentifier": 1,
+      "releaseTimestamp": "2023-05-07T21:47:39.564",
+      "releasedBy": "vault:v2:WAloUoB3ZawlDf21abj6yNQ5ZUHZ6VGpDTIj9iDZxDDv9pebmbJXsdo=",
+      "releaseUpdatedTimestamp": "2023-05-07T21:47:39.084",
+      "releaseUpdatedBy": "vault:v2:LzVsgr6JKh1ApfZXEy/9uXR4fGDu2tWSRNq5sEREDIpBtzdxKXWaElk=",
+      "fulfilmentDate": "2023-05-07T21:49:44.884",
+      "brand": "TWL",
+      "itemIdentifiers": [{
+        "identifier": "1541082",
+        "producer": "MDM"
+      }
+      ],
+      "quantity": 2.0,
+      "unitOfMeasure": "EA",
+      "shipViaIdentifier": "TWGT",
+      "carrierCode": "GROUPFLEET",
+      "allocationIdentifier": "372654002249769444540",
+      "changeIdentifier": "5c5f8b56-0051-4a5b-bc13-3261fc7c2440"
+    }
+    ]
+  }
+  ],
+  "payments": [{
+    "creditCard": {
+      "cardType": "Visa",
+      "maskedCardNumber": "vault:v2:00wlveUnsBpz2Fu2WLDh2aFrsO33r+iuBeF9WrFNsR67sj4mkYQxGQi+sP0EYhcJJ0FL+A==",
+      "cardHolderName": "vault:v2:SPQqnFxZ5B2LxDYLx8o1bQ3pqX0PgfEe7c7OejzY++CTStmkPb02",
+      "expiryMonth": "vault:v2:8qFPN91MX8kCyqV0UZjLIT3TiNr+BX7rpKghPRwb",
+      "expiryYear": "vault:v2:+gkOcYRngh2iYy5x6dUgcsVW1yOROT7LovoWissmyMo=",
+      "amount": {
+        "amount": 99.98,
+        "currency": "NZD"
+      },
+      "transactionIdentifier": "000000030138f163"
+    }
+  }
+  ],
+  "release": [{
+    "releaseIdentifier": "NaWIS0411",
+    "brand": "TWL",
+    "carrierCode": "GROUPFLEET",
+    "deliveryMethod": "PickUpAtStore",
+    "shipToLocationIdentifier": "1119",
+    "shipFromLocationIdentifier": "1119",
+    "createdBy": "vault:v2:RCvuDlIiURLtp9r4OxqWZf2LOlntcnnldz+sCWcbiCrpHcTIKGhorl4=",
+    "createdTimestamp": "2023-05-07T21:47:39.564",
+    "updatedBy": "vault:v2:Azdr6KzPJCvBH3xYbSn1y9mtFro9wJ14aQakjPuA8kVVhEq4fxGrf1k=",
+    "updatedTimestamp": "2023-05-07T21:47:39.084",
+    "changeIdentifier": "c1c9d1c0-c187-46aa-a180-ac981436b4e8",
+    "lines": [{
+      "allocationIdentifier": "372654002249769444540",
+      "quantity": 2.0,
+      "fulfilledQuantity": 2.0,
+      "cancelledQuantity": 0.0,
+      "itemIdentifiers": [{
+        "identifier": "1541082",
+        "producer": "MDM"
+      }
+      ],
+      "releaseLineIdentifier": 1,
+      "orderLineNumber": 1,
+      "brand": "TWL",
+      "unitOfMeasure": "EA",
+      "createdBy": "admin@twl.com",
+      "createdDatetime": "2023-05-07T21:47:39.564",
+      "updatedBy": "admin@twl.com",
+      "updatedDatetime": "2023-05-07T21:49:45.675",
+      "changeIdentifier": "5c5f8b56-0051-4a5b-bc13-3261fc7c2440"
+    }
+    ]
+  }
+  ],
+  "salesposting": [{
+    "invoiceIdentifier": "16834964578589179968",
+    "parentOrderIdentifier": "NaWIS041",
+    "invoiceType": "Appeasement",
+    "invoicePublishCount": 1,
+    "amountProcessed": {
+      "amount": -0.99,
+      "currency": "NZD"
+    },
+    "invoiceSubtotal": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "totalDiscounts": {
+      "amount": -0.99,
+      "currency": "NZD"
+    },
+    "totalTaxes": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "totalCharges": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "invoiceTotal": {
+      "amount": -0.99,
+      "currency": "NZD"
+    },
+    "failedCharge": {
+      "amount": 0.0,
+      "currency": "NZD"
+    },
+    "invoiceStatus": "Closed",
+    "createdTimestamp": "2023-05-07T21:54:17.086",
+    "updatedTimestamp": "2023-05-07T21:54:17.086",
+    "locationIdentifier": "1119",
+    "brand": "TWL",
+    "invoiceLineDetails": [{
+      "invoiceLineSubTotal": {
+        "amount": 0.0,
+        "currency": "NZD"
+      },
+      "totalCharges": {
+        "amount": 0.0,
+        "currency": "NZD"
+      },
+      "invoiceLineTotal": {
+        "amount": -0.99,
+        "currency": "NZD"
+      },
+      "totalDiscount": {
+        "amount": -0.99,
+        "currency": "NZD"
+      },
+      "unitPrice": {
+        "amount": 49.99,
+        "currency": "NZD"
+      },
+      "itemIdentifiers": [{
+        "identifier": "1541082",
+        "producer": "MDM"
+      }
+      ],
+      "quantity": 0.0,
+      "unitOfMeasure": "EA",
+      "brand": "TWL",
+      "lineNumber": 1,
+      "createdTimestamp": "2023-05-07T21:47:37.076",
+      "updatedBy": "admin@twl.com",
+      "updatedTimestamp": "2023-05-07T21:54:17.861",
+      "invoiceLineIdentifier": "16834964578544834678",
+      "shipFromLocationIdentifier": "1119",
+      "chargeDetails": [{
+        "chargeReason": "Honoring promotion",
+        "chargeTotal": {
+          "amount": -0.99
+        },
+        "discountOn": "Line",
+        "chargeType": "Appeasement",
+        "chargeReference": "AmtOff",
+        "chargeDetailIdentifier": "f6c6eb6f-6ec9-4fef-816e-22ab01429ae6",
+        "requestedAmount": 0.0
+      }
+      ]
+    }
+    ]
+  }
+  ]
+}

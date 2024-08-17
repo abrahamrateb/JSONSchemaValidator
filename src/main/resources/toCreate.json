@@ -1,0 +1,25 @@
+{
+  "deliveryDateTime": "2023-04-06T00:00:00",
+  "identifier": "27273986",
+  "lines": [{
+    "cancellationQuantity": 0,
+    "item": {
+      "barcode": {
+        "value": "09400994788631"
+      },
+      "identifier": "460222",
+      "buyPackComponents": [],
+      "buyPackIndicator": false,
+      "unitCost": {
+        "amount": 7.657,
+        "currency": "NZD"
+      }
+    },
+    "quantity": 60
+  }
+  ],
+  "receivingLocationIdentifier": "131",
+  "reserveDisposition": "Not Set",
+  "sendingLocationIdentifier": "888",
+  "status": "Approved"
+}

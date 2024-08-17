@@ -1,0 +1,58 @@
+{
+  "identifier": "68896430075",
+  "orderSource": "GEP",
+  "payments": {
+    "pointOfSale": {
+      "storeIdentifier": "566"
+    }
+  },
+  "lines": [
+    {
+      "itemName": "Whittaker's Original Peanut Slab Single 50g",
+      "returnStoreLocationIdentifier": "566",
+      "basePrice": {
+        "amount": 1,
+        "currency": "NZD"
+      },
+      "channelType": "1P",
+      "returnReason": "EXPIRED",
+      "netPrice": {
+        "amount": -2.61,
+        "currency": "NZD"
+      },
+      "taxRate": 0.15,
+      "description": "Whittaker's Original Peanut Slab Single 50g",
+      "grossPrice": {
+        "amount": -3,
+        "currency": "NZD"
+      },
+      "return": true,
+      "itemIdentifiers": [
+        {
+          "identifier": "422755",
+          "producer": "MDM"
+        }
+      ],
+      "quantity": 3,
+      "taxAmount": {
+        "amount": -0.39,
+        "currency": "NZD"
+      },
+      "number": 1,
+      "globalTradeItemNumber": "94314212",
+      "unitOfMeasure": "EA",
+      "gift": false
+    }
+  ],
+  "returnOrderSource": "STOREFRONT",
+  "taxIncluded": true,
+  "customerLocale": "en_NZ",
+  "orderEvent": {
+    "eventDateTime": "2023-07-26T06:23:31.000+12:00",
+    "eventType": "Return"
+  },
+  "currency": "NZD",
+  "orderDateTime": "2023-07-26T06:23:31.000+12:00",
+  "brand": "TWL",
+  "invoiceNumber": "566X00127"
+}

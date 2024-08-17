@@ -1,0 +1,12 @@
+{
+  "orderReleaseIdentifier": "92101020GEP1",
+  "lines": [
+    {
+      "eventType": "StatusUpdate",
+      "brand": "TWL",
+      "fulfillmentDetail": {
+        "eventDateTime": "2023-04-03T21:28:00+12:00"
+      }
+    }
+  ]
+}
